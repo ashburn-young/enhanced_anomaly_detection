@@ -1,0 +1,11 @@
+name: anomaly-detection-app
+metadata:
+  template: anomaly-detection-app@0.0.1-beta
+infra:
+  provider: bicep
+  path: infra
+services:
+  web:
+    project: .
+    language: python
+    host: containerapp

@@ -1,0 +1,501 @@
+transaction_id,date,timestamp,store_location,category,unit_price,quantity,total_amount,customer_id,customer_segment,payment_method,discount_percentage,sales_representative,day_of_week,month,quarter,is_weekend
+TXN_2a2b1c0e,2025-05-11,2025-05-11 18:40:17,Store_A,Electronics,780.35,3,2341.05,CUST_0071,Budget,Credit Card,7.0,Rep_5,Sunday,May,Q2,True
+TXN_60737c09,2024-08-01,2024-08-01 18:40:17,Store_D,Home,86.44,1,86.44,CUST_0008,Premium,Credit Card,0.0,Rep_5,Thursday,August,Q3,False
+TXN_f0fc0407,2024-07-01,2024-07-01 18:40:17,Store_B,Home,434.43,2,868.86,CUST_0140,Budget,Debit Card,0.0,Rep_3,Monday,July,Q3,False
+TXN_02d6de43,2024-06-21,2024-06-21 18:40:17,Store_D,Clothing,194.43,2,388.86,CUST_0072,Regular,Credit Card,0.0,Rep_3,Friday,June,Q2,False
+TXN_7f1f7651,2024-08-09,2024-08-09 18:40:17,Store_D,Electronics,407.64,1,407.64,CUST_0092,Premium,Cash,0.0,Rep_1,Friday,August,Q3,False
+TXN_64434811,2025-02-08,2025-02-08 18:40:17,Store_A,Home,221.65,1,221.65,CUST_0021,Regular,Debit Card,0.0,Rep_5,Saturday,February,Q1,True
+TXN_7566f575,2024-12-20,2024-12-20 18:40:17,Store_B,Home,90.77,1,90.77,CUST_0018,Budget,Credit Card,0.0,Rep_3,Friday,December,Q4,False
+TXN_8e2b532d,2024-07-28,2024-07-28 18:40:17,Store_A,Clothing,160.26,1,160.26,CUST_0072,Regular,Debit Card,0.0,Rep_2,Sunday,July,Q3,True
+TXN_9f8a2748,2024-12-24,2024-12-24 18:40:17,Store_B,Food,33.31,2,66.62,CUST_0069,Budget,Cash,0.0,Rep_1,Tuesday,December,Q4,False
+TXN_4e3f0dca,2025-04-25,2025-04-25 18:40:17,Store_E,Clothing,190.54,3,571.62,CUST_0063,Budget,Credit Card,0.0,Rep_5,Friday,April,Q2,False
+TXN_f433e967,2024-10-08,2024-10-08 18:40:17,Store_A,Food,34.53,2,69.06,CUST_0009,Premium,Cash,0.0,Rep_1,Tuesday,October,Q4,False
+TXN_dcf9185b,2024-10-04,2024-10-04 18:40:17,Store_C,Home,26.85,1,26.85,CUST_0128,Premium,Credit Card,0.0,Rep_4,Friday,October,Q4,False
+TXN_65f05d7c,2024-08-30,2024-08-30 18:40:17,Store_B,Food,33.46,3,100.38,CUST_0144,Premium,Debit Card,0.0,Rep_4,Friday,August,Q3,False
+TXN_11a7a8ee,2025-04-12,2025-04-12 18:40:17,Store_C,Books,97.11,5,485.55,CUST_0036,Premium,Debit Card,5.9,Rep_1,Saturday,April,Q2,True
+TXN_2781ed70,2024-09-04,2024-09-04 18:40:17,Store_D,Clothing,51.26,1,51.26,CUST_0017,Budget,Credit Card,0.0,Rep_4,Wednesday,September,Q3,False
+TXN_f9144cd1,2025-03-15,2025-03-15 18:40:17,Store_E,Food,16.94,4,67.76,CUST_0030,Premium,Debit Card,0.0,Rep_3,Saturday,March,Q1,True
+TXN_a6cfa4cf,2025-05-12,2025-05-12 18:40:17,Store_A,Food,27.59,2,55.18,CUST_0112,Regular,Credit Card,19.4,Rep_3,Monday,May,Q2,False
+TXN_beb889b0,2025-03-01,2025-03-01 18:40:17,Store_E,Clothing,197.57,2,395.14,CUST_0161,Premium,Credit Card,0.0,Rep_5,Saturday,March,Q1,True
+TXN_5bde4bd9,2024-09-27,2024-09-27 18:40:17,Store_C,Clothing,165.86,3,497.58,CUST_0139,Premium,Mobile Pay,0.0,Rep_1,Friday,September,Q3,False
+TXN_b19fda83,2025-04-20,2025-04-20 18:40:17,Store_D,Food,18.56,3,55.68,CUST_0029,Premium,Mobile Pay,0.0,Rep_3,Sunday,April,Q2,True
+TXN_5c8a759c,2024-10-18,2024-10-18 18:40:17,Store_B,Electronics,173.94,1,173.94,CUST_0021,Budget,Credit Card,0.0,Rep_1,Friday,October,Q4,False
+TXN_fb842355,2025-03-17,2025-03-17 18:40:17,Store_B,Clothing,149.98,3,449.94,CUST_0122,Budget,Mobile Pay,0.0,Rep_5,Monday,March,Q1,False
+TXN_e82a062e,2025-04-24,2025-04-24 18:40:17,Store_B,Books,72.76,3,218.28,CUST_0052,Budget,Cash,0.0,Rep_3,Thursday,April,Q2,False
+TXN_72551833,2025-01-28,2025-01-28 18:40:17,Store_D,Home,266.14,1,266.14,CUST_0064,Premium,Credit Card,0.0,Rep_5,Tuesday,January,Q1,False
+TXN_3bbca374,2025-03-28,2025-03-28 18:40:17,Store_E,Clothing,34.96,1,34.96,CUST_0002,Premium,Credit Card,0.0,Rep_2,Friday,March,Q1,False
+TXN_1cb07a00,2024-07-22,2024-07-22 18:40:17,Store_C,Electronics,1291.0,1,1291.0,CUST_0132,Premium,Credit Card,0.0,Rep_2,Monday,July,Q3,False
+TXN_67edc14e,2025-03-21,2025-03-21 18:40:17,Store_E,Clothing,182.9,1,182.9,CUST_0122,Budget,Credit Card,0.0,Rep_4,Friday,March,Q1,False
+TXN_a9a786de,2024-09-23,2024-09-23 18:40:17,Store_A,Electronics,1523.32,1,1523.32,CUST_0111,Budget,Credit Card,0.0,Rep_1,Monday,September,Q3,False
+TXN_82b4c887,2025-05-28,2025-05-28 18:40:17,Store_A,Electronics,200.11,1,200.11,CUST_0087,Regular,Cash,8.8,Rep_5,Wednesday,May,Q2,False
+TXN_0d13e253,2025-02-02,2025-02-02 18:40:17,Store_D,Clothing,44.83,5,224.15,CUST_0072,Premium,Debit Card,0.0,Rep_1,Sunday,February,Q1,True
+TXN_0c868fc2,2025-01-30,2025-01-30 18:40:17,Store_A,Home,447.35,3,1342.05,CUST_0139,Premium,Cash,0.0,Rep_2,Thursday,January,Q1,False
+TXN_49344f3d,2024-09-11,2024-09-11 18:40:17,Store_D,Books,15.45,1,15.45,CUST_0055,Regular,Cash,0.0,Rep_2,Wednesday,September,Q3,False
+TXN_298bc3a7,2024-12-29,2024-12-29 18:40:17,Store_D,Electronics,2092.84,1,2092.84,CUST_0117,Regular,Credit Card,0.0,Rep_5,Sunday,December,Q4,True
+TXN_8b981f66,2025-05-22,2025-05-22 18:40:17,Store_B,Books,53.52,1,53.52,CUST_0076,Premium,Credit Card,19.7,Rep_1,Thursday,May,Q2,False
+TXN_e64e4845,2024-11-25,2024-11-25 18:40:17,Store_A,Electronics,331.27,2,662.54,CUST_0123,Budget,Debit Card,0.0,Rep_2,Monday,November,Q4,False
+TXN_5f585d57,2024-07-17,2024-07-17 18:40:17,Store_A,Home,354.48,3,1063.44,CUST_0018,Premium,Debit Card,0.0,Rep_2,Wednesday,July,Q3,False
+TXN_5a7012f1,2025-01-10,2025-01-10 18:40:17,Store_E,Electronics,1019.63,1,1019.63,CUST_0149,Premium,Debit Card,0.0,Rep_4,Friday,January,Q1,False
+TXN_f85e1cd2,2025-05-20,2025-05-20 18:40:17,Store_E,Home,149.57,1,149.57,CUST_0081,Budget,Mobile Pay,0.0,Rep_3,Tuesday,May,Q2,False
+TXN_099ca91d,2024-10-18,2024-10-18 18:40:17,Store_D,Food,30.87,1,30.87,CUST_0166,Premium,Credit Card,0.0,Rep_1,Friday,October,Q4,False
+TXN_6cb04c9c,2024-06-22,2024-06-22 18:40:17,Store_E,Books,31.47,2,62.94,CUST_0026,Budget,Credit Card,0.0,Rep_3,Saturday,June,Q2,True
+TXN_92155084,2024-08-24,2024-08-24 18:40:17,Store_A,Food,24.98,4,99.92,CUST_0095,Premium,Credit Card,0.0,Rep_5,Saturday,August,Q3,True
+TXN_80f83d8b,2025-06-13,2025-06-13 18:40:17,Store_E,Food,36.68,4,146.72,CUST_0136,Budget,Credit Card,0.0,Rep_3,Friday,June,Q2,False
+TXN_f49d137c,2025-05-23,2025-05-23 18:40:17,Store_B,Electronics,1678.84,1,1678.84,CUST_0030,Regular,Cash,0.0,Rep_2,Friday,May,Q2,False
+TXN_f47cc439,2024-11-04,2024-11-04 18:40:17,Store_E,Food,3.65,1,3.65,CUST_0088,Premium,Credit Card,0.0,Rep_3,Monday,November,Q4,False
+TXN_86b5f8af,2025-03-03,2025-03-03 18:40:17,Store_C,Books,53.65,1,53.65,CUST_0024,Premium,Debit Card,0.0,Rep_1,Monday,March,Q1,False
+TXN_5474ff25,2024-06-19,2024-06-19 18:40:17,Store_B,Food,9.54,4,38.16,CUST_0068,Budget,Credit Card,0.0,Rep_4,Wednesday,June,Q2,False
+TXN_52add027,2025-04-01,2025-04-01 18:40:17,Store_A,Electronics,271.27,2,542.54,CUST_0039,Premium,Debit Card,0.0,Rep_5,Tuesday,April,Q2,False
+TXN_f0ce471e,2025-03-27,2025-03-27 18:40:17,Store_D,Clothing,137.1,3,411.3,CUST_0011,Premium,Credit Card,0.0,Rep_1,Thursday,March,Q1,False
+TXN_17cd5c1c,2024-12-18,2024-12-18 18:40:17,Store_B,Clothing,41.23,3,123.69,CUST_0027,Budget,Credit Card,0.0,Rep_4,Wednesday,December,Q4,False
+TXN_87646651,2025-05-01,2025-05-01 18:40:17,Store_B,Clothing,149.3,4,597.2,CUST_0046,Premium,Cash,19.7,Rep_3,Thursday,May,Q2,False
+TXN_5e3a4017,2025-01-14,2025-01-14 18:40:17,Store_C,Clothing,44.9,2,89.8,CUST_0028,Premium,Credit Card,14.4,Rep_2,Tuesday,January,Q1,False
+TXN_04ad556a,2025-02-08,2025-02-08 18:40:17,Store_C,Food,5.97,1,5.97,CUST_0058,Premium,Credit Card,0.0,Rep_3,Saturday,February,Q1,True
+TXN_48432899,2024-11-07,2024-11-07 18:40:17,Store_C,Electronics,439.83,2,879.66,CUST_0165,Regular,Debit Card,0.0,Rep_5,Thursday,November,Q4,False
+TXN_0c35b914,2024-12-04,2024-12-04 18:40:17,Store_A,Electronics,1650.89,1,1650.89,CUST_0046,Regular,Debit Card,0.0,Rep_1,Wednesday,December,Q4,False
+TXN_60633d37,2024-08-12,2024-08-12 18:40:17,Store_D,Home,328.32,3,984.96,CUST_0081,Regular,Debit Card,0.0,Rep_1,Monday,August,Q3,False
+TXN_f86cedcb,2025-01-01,2025-01-01 18:40:17,Store_B,Home,190.18,1,190.18,CUST_0012,Regular,Cash,23.5,Rep_5,Wednesday,January,Q1,False
+TXN_d622822f,2025-06-04,2025-06-04 18:40:17,Store_C,Clothing,195.01,4,780.04,CUST_0018,Regular,Mobile Pay,0.0,Rep_5,Wednesday,June,Q2,False
+TXN_2d1482bc,2024-11-25,2024-11-25 18:40:17,Store_C,Electronics,1408.2,1,1408.2,CUST_0080,Budget,Debit Card,0.0,Rep_3,Monday,November,Q4,False
+TXN_341ef68a,2025-03-28,2025-03-28 18:40:17,Store_B,Clothing,148.65,1,148.65,CUST_0098,Regular,Debit Card,0.0,Rep_5,Friday,March,Q1,False
+TXN_092a0977,2025-04-05,2025-04-05 18:40:17,Store_D,Food,32.63,5,163.15,CUST_0001,Budget,Credit Card,0.0,Rep_5,Saturday,April,Q2,True
+TXN_a7c24e1d,2025-04-24,2025-04-24 18:40:17,Store_D,Food,46.49,7,325.43,CUST_0114,Regular,Debit Card,0.0,Rep_2,Thursday,April,Q2,False
+TXN_f05337b7,2025-05-21,2025-05-21 18:40:17,Store_C,Electronics,380.51,3,1141.53,CUST_0163,Budget,Debit Card,24.0,Rep_2,Wednesday,May,Q2,False
+TXN_d202024e,2025-05-28,2025-05-28 18:40:17,Store_B,Food,5.76,5,28.8,CUST_0038,Premium,Credit Card,0.0,Rep_4,Wednesday,May,Q2,False
+TXN_7170aaf6,2025-04-26,2025-04-26 18:40:17,Store_D,Electronics,1409.18,1,1409.18,CUST_0162,Regular,Debit Card,0.0,Rep_4,Saturday,April,Q2,True
+TXN_4a5b8e01,2025-02-26,2025-02-26 18:40:17,Store_B,Books,32.89,5,164.45,CUST_0002,Premium,Cash,0.0,Rep_1,Wednesday,February,Q1,False
+TXN_5953dc14,2025-01-21,2025-01-21 18:40:17,Store_B,Clothing,162.68,4,650.72,CUST_0133,Budget,Debit Card,0.0,Rep_1,Tuesday,January,Q1,False
+TXN_15b9e5f4,2025-02-06,2025-02-06 18:40:17,Store_D,Clothing,84.48,1,84.48,CUST_0136,Budget,Mobile Pay,0.0,Rep_4,Thursday,February,Q1,False
+TXN_4fdfac0c,2025-04-27,2025-04-27 18:40:17,Store_D,Home,293.36,1,293.36,CUST_0115,Budget,Cash,0.0,Rep_4,Sunday,April,Q2,True
+TXN_ef433f3f,2025-02-03,2025-02-03 18:40:17,Store_B,Food,23.81,3,71.43,CUST_0071,Budget,Cash,0.0,Rep_2,Monday,February,Q1,False
+TXN_134d4d65,2024-11-05,2024-11-05 18:40:17,Store_A,Books,10.81,1,10.81,CUST_0074,Budget,Credit Card,0.0,Rep_5,Tuesday,November,Q4,False
+TXN_0d540810,2024-07-29,2024-07-29 18:40:17,Store_B,Clothing,111.62,2,223.24,CUST_0099,Premium,Debit Card,0.0,Rep_1,Monday,July,Q3,False
+TXN_b3ed19aa,2025-01-16,2025-01-16 18:40:17,Store_C,Books,13.11,1,13.11,CUST_0120,Budget,Debit Card,0.0,Rep_4,Thursday,January,Q1,False
+TXN_d16590ab,2025-01-03,2025-01-03 18:40:17,Store_A,Home,270.36,3,811.08,CUST_0098,Budget,Debit Card,0.0,Rep_3,Friday,January,Q1,False
+TXN_8f13146c,2025-01-03,2025-01-03 18:40:17,Store_E,Books,54.05,2,108.1,CUST_0140,Budget,Cash,0.0,Rep_4,Friday,January,Q1,False
+TXN_252d9815,2024-10-08,2024-10-08 18:40:17,Store_D,Food,22.51,1,22.51,CUST_0008,Regular,Credit Card,0.0,Rep_4,Tuesday,October,Q4,False
+TXN_39fd2d16,2024-09-10,2024-09-10 18:40:17,Store_B,Books,96.45,3,289.35,CUST_0137,Budget,Credit Card,0.0,Rep_5,Tuesday,September,Q3,False
+TXN_83f72c1a,2025-05-23,2025-05-23 18:40:17,Store_A,Electronics,355.05,1,355.05,CUST_0110,Budget,Credit Card,0.0,Rep_1,Friday,May,Q2,False
+TXN_f4da30b9,2024-10-29,2024-10-29 18:40:17,Store_C,Books,57.18,2,114.36,CUST_0117,Premium,Credit Card,0.0,Rep_4,Tuesday,October,Q4,False
+TXN_35680e59,2024-11-07,2024-11-07 18:40:17,Store_C,Books,119.41,2,238.82,CUST_0121,Premium,Credit Card,0.0,Rep_3,Thursday,November,Q4,False
+TXN_0fbc847c,2024-10-10,2024-10-10 18:40:17,Store_A,Electronics,533.08,1,533.08,CUST_0064,Premium,Credit Card,8.0,Rep_2,Thursday,October,Q4,False
+TXN_09b362d2,2025-02-15,2025-02-15 18:40:17,Store_E,Electronics,78.07,1,78.07,CUST_0120,Premium,Debit Card,0.0,Rep_2,Saturday,February,Q1,True
+TXN_c6013016,2025-04-24,2025-04-24 18:40:17,Store_A,Home,32.54,1,32.54,CUST_0080,Premium,Credit Card,11.2,Rep_4,Thursday,April,Q2,False
+TXN_a6976bb1,2025-01-07,2025-01-07 18:40:17,Store_A,Clothing,173.26,2,346.52,CUST_0161,Budget,Credit Card,0.0,Rep_3,Tuesday,January,Q1,False
+TXN_8bd08193,2025-06-03,2025-06-03 18:40:17,Store_A,Home,250.89,1,250.89,CUST_0011,Budget,Credit Card,0.0,Rep_3,Tuesday,June,Q2,False
+TXN_415df117,2024-07-23,2024-07-23 18:40:17,Store_C,Home,222.59,1,222.59,CUST_0108,Premium,Cash,24.2,Rep_4,Tuesday,July,Q3,False
+TXN_abdaef38,2025-06-15,2025-06-15 18:40:17,Store_D,Clothing,132.49,1,132.49,CUST_0134,Premium,Mobile Pay,0.0,Rep_5,Sunday,June,Q2,True
+TXN_d95d9267,2025-02-20,2025-02-20 18:40:17,Store_D,Books,40.59,4,162.36,CUST_0152,Budget,Credit Card,0.0,Rep_1,Thursday,February,Q1,False
+TXN_b3a65fd1,2024-11-07,2024-11-07 18:40:17,Store_B,Books,14.38,1,14.38,CUST_0146,Regular,Debit Card,0.0,Rep_1,Thursday,November,Q4,False
+TXN_8a6d4fc4,2025-02-26,2025-02-26 18:40:17,Store_B,Food,29.7,7,207.9,CUST_0055,Regular,Credit Card,0.0,Rep_3,Wednesday,February,Q1,False
+TXN_3e61f75c,2025-04-19,2025-04-19 18:40:17,Store_E,Food,48.1,2,96.2,CUST_0133,Premium,Mobile Pay,19.4,Rep_4,Saturday,April,Q2,True
+TXN_000f1601,2025-03-29,2025-03-29 18:40:17,Store_D,Clothing,33.64,1,33.64,CUST_0126,Budget,Debit Card,10.9,Rep_4,Saturday,March,Q1,True
+TXN_30cef299,2025-06-07,2025-06-07 18:40:17,Store_C,Clothing,32.47,1,32.47,CUST_0149,Budget,Credit Card,0.0,Rep_3,Saturday,June,Q2,True
+TXN_a7ff3c0f,2025-01-21,2025-01-21 18:40:17,Store_C,Home,166.3,1,166.3,CUST_0117,Regular,Credit Card,0.0,Rep_1,Tuesday,January,Q1,False
+TXN_8fa66a53,2024-09-24,2024-09-24 18:40:17,Store_A,Food,40.91,2,81.82,CUST_0138,Budget,Mobile Pay,0.0,Rep_2,Tuesday,September,Q3,False
+TXN_94d97706,2024-10-06,2024-10-06 18:40:17,Store_C,Books,64.75,3,194.25,CUST_0151,Budget,Mobile Pay,0.0,Rep_3,Sunday,October,Q4,True
+TXN_880481e5,2024-08-08,2024-08-08 18:40:17,Store_C,Clothing,47.83,4,191.32,CUST_0093,Premium,Credit Card,15.7,Rep_3,Thursday,August,Q3,False
+TXN_4954a2e2,2024-07-11,2024-07-11 18:40:17,Store_E,Electronics,1564.01,2,3128.02,CUST_0033,Regular,Debit Card,0.0,Rep_1,Thursday,July,Q3,False
+TXN_f97df68a,2024-06-24,2024-06-24 18:40:17,Store_C,Home,220.21,2,440.42,CUST_0123,Regular,Debit Card,0.0,Rep_1,Monday,June,Q2,False
+TXN_665d10c4,2024-10-25,2024-10-25 18:40:17,Store_A,Books,90.74,2,181.48,CUST_0103,Premium,Debit Card,0.0,Rep_1,Friday,October,Q4,False
+TXN_bce070ab,2024-09-03,2024-09-03 18:40:17,Store_E,Clothing,180.67,1,180.67,CUST_0022,Regular,Mobile Pay,20.3,Rep_5,Tuesday,September,Q3,False
+TXN_90aa3dae,2025-04-19,2025-04-19 18:40:17,Store_B,Home,453.64,1,453.64,CUST_0098,Budget,Debit Card,0.0,Rep_5,Saturday,April,Q2,True
+TXN_d126c074,2025-01-23,2025-01-23 18:40:17,Store_E,Food,16.65,6,99.9,CUST_0016,Budget,Debit Card,0.0,Rep_2,Thursday,January,Q1,False
+TXN_dbd7d6d9,2025-05-04,2025-05-04 18:40:17,Store_C,Clothing,139.42,3,418.26,CUST_0021,Budget,Credit Card,0.0,Rep_1,Sunday,May,Q2,True
+TXN_6f3fcb07,2024-09-06,2024-09-06 18:40:17,Store_D,Electronics,1014.12,1,1014.12,CUST_0153,Regular,Debit Card,10.8,Rep_3,Friday,September,Q3,False
+TXN_63643532,2025-06-12,2025-06-12 18:40:17,Store_A,Books,57.21,2,114.42,CUST_0060,Budget,Mobile Pay,0.0,Rep_5,Thursday,June,Q2,False
+TXN_2bbc4cae,2025-05-22,2025-05-22 18:40:17,Store_D,Clothing,36.66,1,36.66,CUST_0140,Premium,Credit Card,10.3,Rep_2,Thursday,May,Q2,False
+TXN_23c584e2,2024-07-24,2024-07-24 18:40:17,Store_B,Electronics,1255.53,1,1255.53,CUST_0153,Regular,Cash,0.0,Rep_3,Wednesday,July,Q3,False
+TXN_29410859,2025-01-28,2025-01-28 18:40:17,Store_D,Electronics,214.01,1,214.01,CUST_0078,Budget,Debit Card,0.0,Rep_5,Tuesday,January,Q1,False
+TXN_575bdb24,2025-03-21,2025-03-21 18:40:17,Store_D,Books,83.08,1,83.08,CUST_0154,Premium,Credit Card,0.0,Rep_3,Friday,March,Q1,False
+TXN_d31e26df,2025-04-23,2025-04-23 18:40:17,Store_A,Food,5.16,7,36.12,CUST_0059,Premium,Mobile Pay,0.0,Rep_5,Wednesday,April,Q2,False
+TXN_23e198fc,2025-04-14,2025-04-14 18:40:17,Store_C,Electronics,212.83,2,425.66,CUST_0011,Budget,Cash,0.0,Rep_5,Monday,April,Q2,False
+TXN_378ac459,2025-05-17,2025-05-17 18:40:17,Store_C,Books,91.1,1,91.1,CUST_0150,Premium,Debit Card,0.0,Rep_1,Saturday,May,Q2,True
+TXN_466aa0e8,2025-02-13,2025-02-13 18:40:17,Store_D,Food,25.14,1,25.14,CUST_0083,Regular,Debit Card,0.0,Rep_3,Thursday,February,Q1,False
+TXN_75c4e733,2025-01-14,2025-01-14 18:40:17,Store_C,Books,49.52,1,49.52,CUST_0103,Budget,Cash,0.0,Rep_4,Tuesday,January,Q1,False
+TXN_b40e0991,2024-08-02,2024-08-02 18:40:17,Store_C,Food,6.82,5,34.1,CUST_0030,Regular,Mobile Pay,0.0,Rep_5,Friday,August,Q3,False
+TXN_4fe6cee2,2024-06-18,2024-06-18 18:40:17,Store_D,Home,150.0,1,150.0,CUST_0014,Regular,Credit Card,0.0,Rep_4,Tuesday,June,Q2,False
+TXN_1c24b269,2025-05-04,2025-05-04 18:40:17,Store_A,Books,96.51,1,96.51,CUST_0069,Premium,Debit Card,0.0,Rep_4,Sunday,May,Q2,True
+TXN_39a97d3a,2025-06-10,2025-06-10 18:40:17,Store_A,Books,97.14,1,97.14,CUST_0162,Premium,Debit Card,0.0,Rep_2,Tuesday,June,Q2,False
+TXN_261357db,2024-11-24,2024-11-24 18:40:17,Store_A,Home,538.47,1,538.47,CUST_0105,Budget,Credit Card,0.0,Rep_1,Sunday,November,Q4,True
+TXN_61c3f236,2025-02-09,2025-02-09 18:40:17,Store_B,Electronics,1130.02,3,3390.06,CUST_0075,Regular,Debit Card,0.0,Rep_4,Sunday,February,Q1,True
+TXN_01c89f34,2025-02-14,2025-02-14 18:40:17,Store_D,Clothing,99.09,3,297.27,CUST_0038,Budget,Credit Card,0.0,Rep_5,Friday,February,Q1,False
+TXN_7af3cf56,2024-08-26,2024-08-26 18:40:17,Store_C,Electronics,597.88,3,1793.64,CUST_0088,Regular,Mobile Pay,0.0,Rep_1,Monday,August,Q3,False
+TXN_35455c5f,2024-11-09,2024-11-09 18:40:17,Store_E,Food,16.6,3,49.8,CUST_0126,Budget,Cash,0.0,Rep_4,Saturday,November,Q4,True
+TXN_8ef3d388,2024-12-11,2024-12-11 18:40:17,Store_E,Food,63.23,5,316.15,CUST_0097,Budget,Debit Card,0.0,Rep_2,Wednesday,December,Q4,False
+TXN_8d54cb9c,2025-06-10,2025-06-10 18:40:17,Store_E,Clothing,183.52,6,1101.12,CUST_0060,Regular,Cash,0.0,Rep_3,Tuesday,June,Q2,False
+TXN_13905968,2025-02-15,2025-02-15 18:40:17,Store_D,Books,9.3,1,9.3,CUST_0039,Budget,Debit Card,15.0,Rep_5,Saturday,February,Q1,True
+TXN_c70945b5,2024-12-04,2024-12-04 18:40:17,Store_D,Electronics,989.63,1,989.63,CUST_0135,Premium,Mobile Pay,7.9,Rep_2,Wednesday,December,Q4,False
+TXN_ff5d6290,2024-07-26,2024-07-26 18:40:17,Store_C,Books,61.44,4,245.76,CUST_0160,Regular,Debit Card,0.0,Rep_3,Friday,July,Q3,False
+TXN_bca516e5,2025-05-29,2025-05-29 18:40:17,Store_D,Home,213.26,1,213.26,CUST_0161,Regular,Cash,0.0,Rep_5,Thursday,May,Q2,False
+TXN_cef54fcd,2024-07-06,2024-07-06 18:40:17,Store_A,Home,433.71,7,3035.97,CUST_0162,Premium,Debit Card,0.0,Rep_2,Saturday,July,Q3,True
+TXN_08c57851,2024-08-03,2024-08-03 18:40:17,Store_A,Books,47.8,1,47.8,CUST_0026,Budget,Debit Card,0.0,Rep_1,Saturday,August,Q3,True
+TXN_8974910b,2024-07-11,2024-07-11 18:40:17,Store_A,Food,47.75,4,191.0,CUST_0092,Regular,Credit Card,15.6,Rep_5,Thursday,July,Q3,False
+TXN_bc661449,2025-06-02,2025-06-02 18:40:17,Store_B,Clothing,36.01,4,144.04,CUST_0021,Premium,Debit Card,0.0,Rep_2,Monday,June,Q2,False
+TXN_f1bfad72,2025-02-27,2025-02-27 18:40:17,Store_B,Home,280.43,2,560.86,CUST_0119,Premium,Debit Card,0.0,Rep_1,Thursday,February,Q1,False
+TXN_9c5b2c28,2025-02-11,2025-02-11 18:40:17,Store_E,Food,7.57,1,7.57,CUST_0019,Premium,Debit Card,0.0,Rep_5,Tuesday,February,Q1,False
+TXN_97b450e9,2024-11-18,2024-11-18 18:40:17,Store_C,Books,93.93,1,93.93,CUST_0078,Regular,Credit Card,0.0,Rep_4,Monday,November,Q4,False
+TXN_513b3f7a,2024-08-11,2024-08-11 18:40:17,Store_D,Clothing,40.23,1,40.23,CUST_0092,Budget,Debit Card,0.0,Rep_3,Sunday,August,Q3,True
+TXN_e80648a0,2024-06-29,2024-06-29 18:40:17,Store_C,Books,38.31,2,76.62,CUST_0145,Premium,Cash,0.0,Rep_1,Saturday,June,Q2,True
+TXN_af1b018e,2025-04-24,2025-04-24 18:40:17,Store_C,Books,90.9,2,181.8,CUST_0156,Premium,Cash,0.0,Rep_2,Thursday,April,Q2,False
+TXN_27cbd841,2025-05-01,2025-05-01 18:40:17,Store_B,Food,20.43,6,122.58,CUST_0025,Budget,Mobile Pay,0.0,Rep_3,Thursday,May,Q2,False
+TXN_be0cd0a6,2025-01-29,2025-01-29 18:40:17,Store_E,Electronics,945.31,2,1890.62,CUST_0034,Regular,Credit Card,0.0,Rep_4,Wednesday,January,Q1,False
+TXN_5854b6f4,2024-09-15,2024-09-15 18:40:17,Store_B,Clothing,132.18,1,132.18,CUST_0094,Budget,Debit Card,0.0,Rep_2,Sunday,September,Q3,True
+TXN_a2bd162b,2024-10-27,2024-10-27 18:40:17,Store_C,Books,17.24,1,17.24,CUST_0087,Budget,Cash,0.0,Rep_1,Sunday,October,Q4,True
+TXN_d57d14ce,2024-08-29,2024-08-29 18:40:17,Store_D,Clothing,43.1,1,43.1,CUST_0094,Budget,Credit Card,0.0,Rep_3,Thursday,August,Q3,False
+TXN_bff49326,2025-03-19,2025-03-19 18:40:17,Store_D,Electronics,404.67,2,809.34,CUST_0068,Regular,Debit Card,0.0,Rep_3,Wednesday,March,Q1,False
+TXN_37e5ff29,2024-08-12,2024-08-12 18:40:17,Store_D,Clothing,138.5,1,138.5,CUST_0159,Premium,Cash,0.0,Rep_5,Monday,August,Q3,False
+TXN_aa619a78,2024-10-09,2024-10-09 18:40:17,Store_D,Electronics,129.69,1,129.69,CUST_0078,Budget,Debit Card,5.9,Rep_1,Wednesday,October,Q4,False
+TXN_2dc784ea,2024-11-20,2024-11-20 18:40:17,Store_A,Books,35.73,1,35.73,CUST_0061,Premium,Cash,14.1,Rep_5,Wednesday,November,Q4,False
+TXN_fabe3b20,2025-01-18,2025-01-18 18:40:17,Store_B,Home,69.11,1,69.11,CUST_0026,Regular,Cash,0.0,Rep_3,Saturday,January,Q1,True
+TXN_e4782554,2024-07-04,2024-07-04 18:40:17,Store_B,Food,18.85,2,37.7,CUST_0114,Regular,Mobile Pay,0.0,Rep_1,Thursday,July,Q3,False
+TXN_c9ffb80b,2025-06-04,2025-06-04 18:40:17,Store_E,Food,40.17,4,160.68,CUST_0150,Budget,Credit Card,0.0,Rep_2,Wednesday,June,Q2,False
+TXN_52e47070,2024-08-19,2024-08-19 18:40:17,Store_A,Books,31.3,2,62.6,CUST_0151,Budget,Credit Card,0.0,Rep_1,Monday,August,Q3,False
+TXN_753292d0,2024-07-13,2024-07-13 18:40:17,Store_B,Food,11.26,4,45.04,CUST_0152,Premium,Cash,0.0,Rep_5,Saturday,July,Q3,True
+TXN_e8f6755a,2024-10-02,2024-10-02 18:40:17,Store_B,Home,376.26,1,376.26,CUST_0153,Premium,Credit Card,23.0,Rep_1,Wednesday,October,Q4,False
+TXN_61d814f5,2024-11-06,2024-11-06 18:40:17,Store_B,Clothing,76.67,3,230.01,CUST_0154,Budget,Credit Card,0.0,Rep_1,Wednesday,November,Q4,False
+TXN_addf8f15,2024-08-24,2024-08-24 18:40:17,Store_C,Electronics,922.45,1,922.45,CUST_0155,Premium,Debit Card,10.3,Rep_2,Saturday,August,Q3,True
+TXN_cca00e57,2025-01-19,2025-01-19 18:40:17,Store_A,Home,141.93,1,141.93,CUST_0156,Budget,Credit Card,0.0,Rep_3,Sunday,January,Q1,True
+TXN_2586d33f,2025-03-07,2025-03-07 18:40:17,Store_A,Home,167.82,1,167.82,CUST_0157,Regular,Debit Card,0.0,Rep_1,Friday,March,Q1,False
+TXN_f0e06ebc,2025-05-21,2025-05-21 18:40:17,Store_C,Home,170.47,1,170.47,CUST_0158,Regular,Debit Card,25.0,Rep_4,Wednesday,May,Q2,False
+TXN_8877286a,2025-01-22,2025-01-22 18:40:17,Store_D,Electronics,1786.53,3,5359.59,CUST_0159,Budget,Mobile Pay,6.6,Rep_5,Wednesday,January,Q1,False
+TXN_8244ea4f,2024-09-01,2024-09-01 18:40:17,Store_B,Electronics,219.49,2,438.98,CUST_0160,Regular,Debit Card,0.0,Rep_3,Sunday,September,Q3,True
+TXN_0029a437,2024-12-30,2024-12-30 18:40:17,Store_E,Home,249.32,1,249.32,CUST_0161,Regular,Debit Card,0.0,Rep_1,Monday,December,Q4,False
+TXN_4eba49e1,2025-06-12,2025-06-12 18:40:17,Store_E,Electronics,1309.54,1,1309.54,CUST_0162,Budget,Cash,0.0,Rep_2,Thursday,June,Q2,False
+TXN_f81fe084,2025-01-15,2025-01-15 18:40:17,Store_D,Food,49.34,2,98.68,CUST_0163,Regular,Debit Card,13.5,Rep_3,Wednesday,January,Q1,False
+TXN_2733b200,2024-12-26,2024-12-26 18:40:17,Store_D,Clothing,49.74,1,49.74,CUST_0164,Premium,Credit Card,13.6,Rep_3,Thursday,December,Q4,False
+TXN_d71145e0,2024-08-23,2024-08-23 18:40:17,Store_A,Home,149.7,1,149.7,CUST_0165,Budget,Mobile Pay,0.0,Rep_1,Friday,August,Q3,False
+TXN_0137bcb5,2025-01-14,2025-01-14 18:40:17,Store_D,Food,44.94,2,89.88,CUST_0166,Budget,Credit Card,0.0,Rep_3,Tuesday,January,Q1,False
+TXN_a65fb025,2024-12-15,2024-12-15 18:40:17,Store_E,Electronics,2206.25,3,6618.75,CUST_0167,Budget,Credit Card,0.0,Rep_2,Sunday,December,Q4,True
+TXN_5841a248,2024-08-12,2024-08-12 18:40:17,Store_E,Food,13.64,5,68.2,CUST_0168,Regular,Credit Card,0.0,Rep_2,Monday,August,Q3,False
+TXN_6275719d,2025-01-23,2025-01-23 18:40:17,Store_E,Home,387.05,1,387.05,CUST_0169,Budget,Debit Card,0.0,Rep_5,Thursday,January,Q1,False
+TXN_bb2827cf,2025-05-20,2025-05-20 18:40:17,Store_A,Food,16.86,3,50.58,CUST_0170,Premium,Credit Card,0.0,Rep_3,Tuesday,May,Q2,False
+TXN_89d6ec74,2024-12-14,2024-12-14 18:40:17,Store_B,Electronics,1436.4,1,1436.4,CUST_0171,Premium,Debit Card,0.0,Rep_2,Saturday,December,Q4,True
+TXN_101d180b,2025-05-08,2025-05-08 18:40:17,Store_A,Electronics,988.22,1,988.22,CUST_0172,Budget,Debit Card,0.0,Rep_4,Thursday,May,Q2,False
+TXN_d79707d8,2024-12-09,2024-12-09 18:40:17,Store_C,Clothing,87.08,1,87.08,CUST_0173,Regular,Cash,0.0,Rep_5,Monday,December,Q4,False
+TXN_1e88927b,2025-04-19,2025-04-19 18:40:17,Store_A,Electronics,1980.42,1,1980.42,CUST_0174,Premium,Credit Card,0.0,Rep_1,Saturday,April,Q2,True
+TXN_3b4ffefe,2024-11-04,2024-11-04 18:40:17,Store_D,Books,36.09,3,108.27,CUST_0175,Regular,Debit Card,0.0,Rep_2,Monday,November,Q4,False
+TXN_c3c3a6fa,2025-03-07,2025-03-07 18:40:17,Store_C,Electronics,730.29,3,2190.87,CUST_0176,Regular,Credit Card,0.0,Rep_5,Friday,March,Q1,False
+TXN_db504120,2025-02-22,2025-02-22 18:40:17,Store_C,Home,368.13,1,368.13,CUST_0177,Premium,Credit Card,0.0,Rep_1,Saturday,February,Q1,True
+TXN_2e4cf4e4,2024-06-21,2024-06-21 18:40:17,Store_C,Clothing,27.3,3,81.9,CUST_0178,Premium,Cash,0.0,Rep_3,Friday,June,Q2,False
+TXN_661e6682,2024-12-02,2024-12-02 18:40:17,Store_A,Electronics,1825.4,1,1825.4,CUST_0179,Regular,Cash,0.0,Rep_4,Monday,December,Q4,False
+TXN_daedef38,2025-03-17,2025-03-17 18:40:17,Store_E,Clothing,45.39,3,136.17,CUST_0180,Budget,Cash,0.0,Rep_1,Monday,March,Q1,False
+TXN_dc59ea45,2025-01-07,2025-01-07 18:40:17,Store_D,Electronics,1760.54,2,3521.08,CUST_0181,Premium,Debit Card,11.3,Rep_4,Tuesday,January,Q1,False
+TXN_38770d10,2025-04-07,2025-04-07 18:40:17,Store_D,Books,40.81,1,40.81,CUST_0182,Regular,Credit Card,11.5,Rep_5,Monday,April,Q2,False
+TXN_7d57adf9,2025-02-08,2025-02-08 18:40:17,Store_A,Food,37.63,4,150.52,CUST_0183,Regular,Cash,0.0,Rep_5,Saturday,February,Q1,True
+TXN_20fa4fe6,2025-01-09,2025-01-09 18:40:17,Store_A,Home,454.17,1,454.17,CUST_0184,Regular,Cash,0.0,Rep_2,Thursday,January,Q1,False
+TXN_a9a8fe09,2024-12-05,2024-12-05 18:40:17,Store_A,Clothing,231.47,1,231.47,CUST_0185,Budget,Debit Card,0.0,Rep_2,Thursday,December,Q4,False
+TXN_12e32f42,2024-12-13,2024-12-13 18:40:17,Store_B,Food,48.85,4,195.4,CUST_0186,Premium,Credit Card,0.0,Rep_2,Friday,December,Q4,False
+TXN_a6bff642,2025-04-22,2025-04-22 18:40:17,Store_A,Clothing,60.97,1,60.97,CUST_0187,Premium,Mobile Pay,0.0,Rep_4,Tuesday,April,Q2,False
+TXN_5c647ce4,2025-04-02,2025-04-02 18:40:17,Store_D,Home,289.25,2,578.5,CUST_0188,Budget,Mobile Pay,0.0,Rep_5,Wednesday,April,Q2,False
+TXN_a83596ec,2024-11-30,2024-11-30 18:40:17,Store_B,Food,46.28,4,185.12,CUST_0189,Regular,Credit Card,0.0,Rep_3,Saturday,November,Q4,True
+TXN_dcb8ec54,2024-11-05,2024-11-05 18:40:17,Store_A,Home,152.24,3,456.72,CUST_0190,Regular,Debit Card,0.0,Rep_4,Tuesday,November,Q4,False
+TXN_2a848f53,2024-07-07,2024-07-07 18:40:17,Store_C,Electronics,541.01,1,541.01,CUST_0191,Regular,Credit Card,0.0,Rep_1,Sunday,July,Q3,True
+TXN_187c50d0,2025-04-28,2025-04-28 18:40:17,Store_E,Home,455.14,1,455.14,CUST_0192,Regular,Debit Card,0.0,Rep_1,Monday,April,Q2,False
+TXN_f3dddddd,2025-02-03,2025-02-03 18:40:17,Store_B,Home,236.38,1,236.38,CUST_0193,Regular,Debit Card,0.0,Rep_1,Monday,February,Q1,False
+TXN_6a9af0e6,2025-02-03,2025-02-03 18:40:17,Store_C,Electronics,1193.15,2,2386.3,CUST_0194,Budget,Credit Card,0.0,Rep_1,Monday,February,Q1,False
+TXN_e8f33f7c,2024-10-22,2024-10-22 18:40:17,Store_D,Books,87.85,5,439.25,CUST_0195,Budget,Debit Card,0.0,Rep_3,Tuesday,October,Q4,False
+TXN_21d4b246,2024-11-09,2024-11-09 18:40:17,Store_D,Books,72.97,4,291.88,CUST_0196,Regular,Debit Card,17.6,Rep_3,Saturday,November,Q4,True
+TXN_a168bccc,2024-07-21,2024-07-21 18:40:17,Store_A,Food,6.55,6,39.3,CUST_0197,Budget,Debit Card,0.0,Rep_5,Sunday,July,Q3,True
+TXN_c9afd0da,2024-09-02,2024-09-02 18:40:17,Store_A,Food,20.55,1,20.55,CUST_0198,Budget,Debit Card,0.0,Rep_3,Monday,September,Q3,False
+TXN_e267175d,2025-05-19,2025-05-19 18:40:17,Store_B,Books,81.27,1,81.27,CUST_0199,Budget,Cash,16.2,Rep_3,Monday,May,Q2,False
+TXN_35f3318c,2024-08-22,2024-08-22 18:40:17,Store_A,Home,173.41,1,173.41,CUST_0200,Budget,Debit Card,0.0,Rep_1,Thursday,August,Q3,False
+TXN_e7addc05,2024-12-20,2024-12-20 18:40:17,Store_B,Food,53.87,3,161.61,CUST_0201,Premium,Credit Card,0.0,Rep_2,Friday,December,Q4,False
+TXN_70d3fb51,2024-10-11,2024-10-11 18:40:17,Store_B,Clothing,98.7,1,98.7,CUST_0202,Premium,Credit Card,0.0,Rep_5,Friday,October,Q4,False
+TXN_b81e7669,2025-03-21,2025-03-21 18:40:17,Store_A,Home,254.2,2,508.4,CUST_0203,Budget,Credit Card,0.0,Rep_2,Friday,March,Q1,False
+TXN_20265cc3,2025-04-19,2025-04-19 18:40:17,Store_B,Books,60.16,1,60.16,CUST_0204,Premium,Credit Card,0.0,Rep_5,Saturday,April,Q2,True
+TXN_38f0e242,2024-09-10,2024-09-10 18:40:17,Store_A,Books,68.04,2,136.08,CUST_0205,Regular,Credit Card,0.0,Rep_4,Tuesday,September,Q3,False
+TXN_414ab351,2025-04-26,2025-04-26 18:40:17,Store_D,Food,21.32,3,63.96,CUST_0206,Premium,Debit Card,0.0,Rep_4,Saturday,April,Q2,True
+TXN_a4655bfe,2024-09-25,2024-09-25 18:40:17,Store_E,Food,4.29,3,12.87,CUST_0207,Regular,Debit Card,0.0,Rep_4,Wednesday,September,Q3,False
+TXN_42144741,2025-03-02,2025-03-02 18:40:17,Store_D,Home,103.44,1,103.44,CUST_0208,Premium,Cash,0.0,Rep_2,Sunday,March,Q1,True
+TXN_d94391ca,2024-10-24,2024-10-24 18:40:17,Store_D,Electronics,970.53,1,970.53,CUST_0209,Regular,Debit Card,21.9,Rep_1,Thursday,October,Q4,False
+TXN_8d21dc46,2024-11-10,2024-11-10 18:40:17,Store_B,Electronics,1860.14,1,1860.14,CUST_0210,Regular,Debit Card,0.0,Rep_4,Sunday,November,Q4,True
+TXN_3be3a940,2024-08-03,2024-08-03 18:40:17,Store_D,Clothing,89.14,1,89.14,CUST_0211,Regular,Mobile Pay,0.0,Rep_4,Saturday,August,Q3,True
+TXN_0a037859,2025-03-02,2025-03-02 18:40:17,Store_B,Food,9.91,5,49.55,CUST_0212,Regular,Mobile Pay,0.0,Rep_1,Sunday,March,Q1,True
+TXN_0b2c4af5,2024-11-28,2024-11-28 18:40:17,Store_C,Electronics,112.56,2,225.12,CUST_0213,Premium,Credit Card,0.0,Rep_4,Thursday,November,Q4,False
+TXN_ad6aab27,2025-06-09,2025-06-09 18:40:17,Store_D,Clothing,56.06,2,112.12,CUST_0214,Regular,Debit Card,0.0,Rep_1,Monday,June,Q2,False
+TXN_081f6691,2024-10-27,2024-10-27 18:40:17,Store_B,Clothing,34.26,2,68.52,CUST_0215,Budget,Mobile Pay,0.0,Rep_4,Sunday,October,Q4,True
+TXN_013ec7a3,2024-08-13,2024-08-13 18:40:17,Store_B,Food,12.67,1,12.67,CUST_0216,Regular,Credit Card,0.0,Rep_5,Tuesday,August,Q3,False
+TXN_add39361,2025-02-07,2025-02-07 18:40:17,Store_A,Electronics,1458.42,2,2916.84,CUST_0217,Regular,Debit Card,15.3,Rep_2,Friday,February,Q1,False
+TXN_ac3b8c9a,2024-08-30,2024-08-30 18:40:17,Store_D,Food,33.74,3,101.22,CUST_0218,Premium,Debit Card,0.0,Rep_4,Friday,August,Q3,False
+TXN_8a7aef1b,2024-09-21,2024-09-21 18:40:17,Store_E,Electronics,216.74,1,216.74,CUST_0219,Regular,Credit Card,0.0,Rep_5,Saturday,September,Q3,True
+TXN_4fb47dd2,2025-03-04,2025-03-04 18:40:17,Store_A,Home,23.0,1,23.0,CUST_0220,Regular,Cash,12.7,Rep_3,Tuesday,March,Q1,False
+TXN_30225421,2024-10-25,2024-10-25 18:40:17,Store_C,Electronics,1186.93,3,3560.79,CUST_0221,Premium,Credit Card,0.0,Rep_1,Friday,October,Q4,False
+TXN_62eb4d52,2025-04-11,2025-04-11 18:40:17,Store_B,Food,13.71,4,54.84,CUST_0222,Premium,Credit Card,0.0,Rep_2,Friday,April,Q2,False
+TXN_85977ed5,2025-06-03,2025-06-03 18:40:17,Store_D,Books,57.44,1,57.44,CUST_0223,Budget,Credit Card,19.3,Rep_4,Tuesday,June,Q2,False
+TXN_a4f40265,2024-07-06,2024-07-06 18:40:17,Store_B,Food,47.47,6,284.82,CUST_0224,Premium,Cash,0.0,Rep_3,Saturday,July,Q3,True
+TXN_a78208c3,2024-11-23,2024-11-23 18:40:17,Store_D,Home,24.24,2,48.48,CUST_0225,Budget,Debit Card,17.9,Rep_3,Saturday,November,Q4,True
+TXN_cd02eea4,2024-12-17,2024-12-17 18:40:17,Store_C,Electronics,407.65,2,815.3,CUST_0226,Regular,Credit Card,0.0,Rep_4,Tuesday,December,Q4,False
+TXN_74bc7f24,2025-01-29,2025-01-29 18:40:17,Store_C,Books,30.87,1,30.87,CUST_0227,Premium,Debit Card,0.0,Rep_5,Wednesday,January,Q1,False
+TXN_dd706071,2024-11-01,2024-11-01 18:40:17,Store_D,Electronics,2059.34,1,2059.34,CUST_0228,Premium,Debit Card,0.0,Rep_2,Friday,November,Q4,False
+TXN_02907e58,2025-03-24,2025-03-24 18:40:17,Store_C,Food,28.15,3,84.45,CUST_0229,Premium,Credit Card,0.0,Rep_3,Monday,March,Q1,False
+TXN_0ae622bb,2025-02-01,2025-02-01 18:40:17,Store_D,Home,77.07,4,308.28,CUST_0230,Premium,Debit Card,0.0,Rep_1,Saturday,February,Q1,True
+TXN_6f863a42,2024-12-15,2024-12-15 18:40:17,Store_D,Home,123.07,1,123.07,CUST_0231,Regular,Debit Card,0.0,Rep_1,Sunday,December,Q4,True
+TXN_f9342247,2024-07-26,2024-07-26 18:40:17,Store_C,Books,54.3,1,54.3,CUST_0232,Budget,Cash,0.0,Rep_1,Friday,July,Q3,False
+TXN_1127715a,2024-08-30,2024-08-30 18:40:17,Store_D,Home,91.48,1,91.48,CUST_0233,Premium,Credit Card,0.0,Rep_3,Friday,August,Q3,False
+TXN_7dc8d829,2024-12-20,2024-12-20 18:40:17,Store_E,Books,71.59,1,71.59,CUST_0234,Premium,Debit Card,0.0,Rep_3,Friday,December,Q4,False
+TXN_2f28bc74,2024-12-25,2024-12-25 18:40:17,Store_A,Books,48.25,2,96.5,CUST_0235,Budget,Credit Card,0.0,Rep_3,Wednesday,December,Q4,False
+TXN_a5e4ada3,2025-05-16,2025-05-16 18:40:17,Store_B,Food,33.52,3,100.56,CUST_0236,Premium,Credit Card,0.0,Rep_5,Friday,May,Q2,False
+TXN_13f3a58b,2025-01-02,2025-01-02 18:40:17,Store_A,Home,138.51,1,138.51,CUST_0237,Regular,Cash,0.0,Rep_2,Thursday,January,Q1,False
+TXN_23efd74f,2025-04-27,2025-04-27 18:40:17,Store_D,Food,25.32,3,75.96,CUST_0238,Premium,Credit Card,0.0,Rep_4,Sunday,April,Q2,True
+TXN_af24829b,2024-09-14,2024-09-14 18:40:17,Store_A,Books,12.14,3,36.42,CUST_0239,Budget,Mobile Pay,0.0,Rep_3,Saturday,September,Q3,True
+TXN_91c61283,2025-06-16,2025-06-16 18:40:17,Store_E,Electronics,530.48,3,1591.44,CUST_0240,Budget,Credit Card,0.0,Rep_2,Monday,June,Q2,False
+TXN_4404d38b,2025-06-17,2025-06-17 18:40:17,Store_C,Clothing,124.19,1,124.19,CUST_0241,Budget,Credit Card,0.0,Rep_2,Tuesday,June,Q2,False
+TXN_43fd9020,2024-10-17,2024-10-17 18:40:17,Store_A,Books,92.14,1,92.14,CUST_0242,Regular,Debit Card,0.0,Rep_5,Thursday,October,Q4,False
+TXN_c949b7b2,2024-08-23,2024-08-23 18:40:17,Store_A,Home,475.62,1,475.62,CUST_0243,Premium,Credit Card,0.0,Rep_4,Friday,August,Q3,False
+TXN_00aa9501,2025-03-14,2025-03-14 18:40:17,Store_D,Books,56.48,6,338.88,CUST_0244,Budget,Credit Card,0.0,Rep_1,Friday,March,Q1,False
+TXN_a6f2fcac,2025-02-03,2025-02-03 18:40:17,Store_E,Books,51.5,3,154.5,CUST_0245,Regular,Credit Card,0.0,Rep_5,Monday,February,Q1,False
+TXN_851a3eb7,2025-05-11,2025-05-11 18:40:17,Store_B,Home,355.73,1,355.73,CUST_0246,Premium,Debit Card,0.0,Rep_1,Sunday,May,Q2,True
+TXN_998da902,2024-08-20,2024-08-20 18:40:17,Store_B,Home,288.29,1,288.29,CUST_0247,Regular,Credit Card,0.0,Rep_2,Tuesday,August,Q3,False
+TXN_74c2912d,2024-12-12,2024-12-12 18:40:17,Store_C,Home,407.83,6,2446.98,CUST_0248,Premium,Credit Card,0.0,Rep_5,Thursday,December,Q4,False
+TXN_43f439d4,2024-11-05,2024-11-05 18:40:17,Store_C,Clothing,186.43,2,372.86,CUST_0249,Budget,Debit Card,0.0,Rep_2,Tuesday,November,Q4,False
+TXN_139f0576,2025-04-17,2025-04-17 18:40:17,Store_B,Home,47.71,1,47.71,CUST_0250,Premium,Debit Card,0.0,Rep_5,Thursday,April,Q2,False
+TXN_df785bfd,2024-12-07,2024-12-07 18:40:17,Store_A,Home,406.42,1,406.42,CUST_0251,Premium,Credit Card,0.0,Rep_5,Saturday,December,Q4,True
+TXN_82384c75,2024-10-31,2024-10-31 18:40:17,Store_E,Clothing,161.28,3,483.84,CUST_0252,Regular,Debit Card,22.8,Rep_5,Thursday,October,Q4,False
+TXN_3c9791bf,2024-11-13,2024-11-13 18:40:17,Store_D,Food,13.72,1,13.72,CUST_0253,Premium,Cash,0.0,Rep_3,Wednesday,November,Q4,False
+TXN_74a6bfee,2025-02-05,2025-02-05 18:40:17,Store_A,Electronics,1755.67,4,7022.68,CUST_0254,Premium,Debit Card,0.0,Rep_2,Wednesday,February,Q1,False
+TXN_9f0c48d2,2024-12-09,2024-12-09 18:40:17,Store_B,Home,455.54,4,1822.16,CUST_0255,Regular,Cash,0.0,Rep_3,Monday,December,Q4,False
+TXN_2c09302d,2025-01-08,2025-01-08 18:40:17,Store_C,Clothing,92.29,2,184.58,CUST_0256,Budget,Debit Card,0.0,Rep_4,Wednesday,January,Q1,False
+TXN_92228130,2024-08-19,2024-08-19 18:40:17,Store_D,Food,6.41,2,12.82,CUST_0257,Premium,Credit Card,23.9,Rep_5,Monday,August,Q3,False
+TXN_5fe648a8,2025-01-18,2025-01-18 18:40:17,Store_B,Clothing,58.22,1,58.22,CUST_0258,Regular,Mobile Pay,0.0,Rep_2,Saturday,January,Q1,True
+TXN_cc5680d0,2024-09-07,2024-09-07 18:40:17,Store_E,Books,6.7,2,13.4,CUST_0259,Regular,Debit Card,0.0,Rep_1,Saturday,September,Q3,True
+TXN_0a0963b3,2024-08-03,2024-08-03 18:40:17,Store_E,Books,69.57,2,139.14,CUST_0260,Regular,Mobile Pay,0.0,Rep_3,Saturday,August,Q3,True
+TXN_4e0d405f,2024-07-12,2024-07-12 18:40:17,Store_C,Electronics,224.35,3,673.05,CUST_0261,Regular,Debit Card,0.0,Rep_4,Friday,July,Q3,False
+TXN_7fc95073,2024-11-11,2024-11-11 18:40:17,Store_A,Home,352.0,1,352.0,CUST_0262,Premium,Debit Card,0.0,Rep_3,Monday,November,Q4,False
+TXN_abb13d43,2025-01-10,2025-01-10 18:40:17,Store_A,Food,47.19,4,188.76,CUST_0263,Regular,Credit Card,0.0,Rep_3,Friday,January,Q1,False
+TXN_b21cfffe,2025-03-28,2025-03-28 18:40:17,Store_A,Food,11.8,3,35.4,CUST_0264,Regular,Debit Card,0.0,Rep_3,Friday,March,Q1,False
+TXN_7a921353,2025-05-03,2025-05-03 18:40:17,Store_A,Home,484.86,3,1454.58,CUST_0265,Premium,Mobile Pay,0.0,Rep_3,Saturday,May,Q2,True
+TXN_db00c42b,2025-03-30,2025-03-30 18:40:17,Store_B,Food,20.42,4,81.68,CUST_0266,Premium,Debit Card,0.0,Rep_1,Sunday,March,Q1,True
+TXN_cb0bbd6c,2024-07-11,2024-07-11 18:40:17,Store_B,Electronics,486.44,2,972.88,CUST_0267,Budget,Credit Card,0.0,Rep_4,Thursday,July,Q3,False
+TXN_54240cce,2024-09-02,2024-09-02 18:40:17,Store_E,Home,54.83,1,54.83,CUST_0268,Premium,Credit Card,0.0,Rep_2,Monday,September,Q3,False
+TXN_103584bf,2025-01-05,2025-01-05 18:40:17,Store_C,Home,73.46,5,367.3,CUST_0269,Budget,Credit Card,0.0,Rep_5,Sunday,January,Q1,True
+TXN_b8faf913,2025-02-23,2025-02-23 18:40:17,Store_C,Home,52.62,1,52.62,CUST_0270,Regular,Cash,0.0,Rep_1,Sunday,February,Q1,True
+TXN_6ffd88b6,2025-01-17,2025-01-17 18:40:17,Store_C,Home,137.28,2,274.56,CUST_0271,Budget,Cash,0.0,Rep_5,Friday,January,Q1,False
+TXN_e224ed1c,2025-02-15,2025-02-15 18:40:17,Store_E,Food,11.79,3,35.37,CUST_0272,Budget,Credit Card,14.6,Rep_5,Saturday,February,Q1,True
+TXN_9072e028,2025-05-06,2025-05-06 18:40:17,Store_D,Home,245.49,2,490.98,CUST_0273,Premium,Cash,0.0,Rep_5,Tuesday,May,Q2,False
+TXN_ea426531,2025-06-11,2025-06-11 18:40:17,Store_B,Electronics,1372.13,1,1372.13,CUST_0274,Premium,Debit Card,0.0,Rep_4,Wednesday,June,Q2,False
+TXN_da37c6b8,2025-06-06,2025-06-06 18:40:17,Store_D,Clothing,177.55,7,1242.85,CUST_0275,Budget,Cash,0.0,Rep_1,Friday,June,Q2,False
+TXN_1e3a3169,2025-06-14,2025-06-14 18:40:17,Store_E,Clothing,129.44,1,129.44,CUST_0276,Premium,Debit Card,0.0,Rep_4,Saturday,June,Q2,True
+TXN_44544306,2025-03-14,2025-03-14 18:40:17,Store_C,Books,88.68,1,88.68,CUST_0277,Premium,Debit Card,0.0,Rep_5,Friday,March,Q1,False
+TXN_0ae3a371,2024-12-16,2024-12-16 18:40:17,Store_E,Food,46.68,4,186.72,CUST_0278,Regular,Credit Card,0.0,Rep_5,Monday,December,Q4,False
+TXN_6f5eab4b,2024-11-17,2024-11-17 18:40:17,Store_C,Clothing,119.91,3,359.73,CUST_0279,Regular,Cash,0.0,Rep_4,Sunday,November,Q4,True
+TXN_484cedf4,2024-11-27,2024-11-27 18:40:17,Store_C,Books,36.41,2,72.82,CUST_0280,Budget,Mobile Pay,0.0,Rep_3,Wednesday,November,Q4,False
+TXN_1a5f4c11,2024-11-12,2024-11-12 18:40:17,Store_E,Electronics,1853.47,2,3706.94,CUST_0281,Budget,Debit Card,0.0,Rep_4,Tuesday,November,Q4,False
+TXN_886e99f8,2024-12-11,2024-12-11 18:40:17,Store_C,Clothing,210.01,2,420.02,CUST_0282,Premium,Credit Card,0.0,Rep_3,Wednesday,December,Q4,False
+TXN_27770ff9,2025-01-30,2025-01-30 18:40:17,Store_D,Food,15.75,2,31.5,CUST_0283,Premium,Credit Card,0.0,Rep_5,Thursday,January,Q1,False
+TXN_b09bde58,2025-06-09,2025-06-09 18:40:17,Store_B,Food,17.95,1,17.95,CUST_0284,Premium,Debit Card,0.0,Rep_2,Monday,June,Q2,False
+TXN_d4b95cfa,2024-07-13,2024-07-13 18:40:17,Store_B,Home,437.05,3,1311.15,CUST_0285,Budget,Credit Card,11.6,Rep_4,Saturday,July,Q3,True
+TXN_c469f66c,2024-08-08,2024-08-08 18:40:17,Store_A,Clothing,155.28,1,155.28,CUST_0286,Budget,Mobile Pay,0.0,Rep_4,Thursday,August,Q3,False
+TXN_05d6fbfa,2025-02-17,2025-02-17 18:40:17,Store_C,Clothing,19.09,2,38.18,CUST_0287,Regular,Credit Card,20.4,Rep_5,Monday,February,Q1,False
+TXN_57ffe083,2024-10-14,2024-10-14 18:40:17,Store_A,Home,344.81,1,344.81,CUST_0288,Premium,Debit Card,0.0,Rep_1,Monday,October,Q4,False
+TXN_59ce811d,2025-01-07,2025-01-07 18:40:17,Store_B,Books,99.73,2,199.46,CUST_0289,Budget,Mobile Pay,0.0,Rep_1,Tuesday,January,Q1,False
+TXN_1f86dcba,2024-06-22,2024-06-22 18:40:17,Store_E,Food,39.95,2,79.9,CUST_0290,Budget,Credit Card,0.0,Rep_3,Saturday,June,Q2,True
+TXN_3d4c2b97,2025-02-05,2025-02-05 18:40:17,Store_E,Home,343.44,1,343.44,CUST_0291,Regular,Cash,15.1,Rep_3,Wednesday,February,Q1,False
+TXN_ccf287ad,2024-09-24,2024-09-24 18:40:17,Store_C,Electronics,1904.18,1,1904.18,CUST_0292,Premium,Cash,0.0,Rep_2,Tuesday,September,Q3,False
+TXN_f74c76de,2024-06-25,2024-06-25 18:40:17,Store_C,Food,22.18,4,88.72,CUST_0293,Budget,Debit Card,0.0,Rep_5,Tuesday,June,Q2,False
+TXN_9d4b0b6d,2025-05-11,2025-05-11 18:40:17,Store_D,Books,98.48,2,196.96,CUST_0294,Budget,Credit Card,0.0,Rep_1,Sunday,May,Q2,True
+TXN_245893d0,2024-09-20,2024-09-20 18:40:17,Store_D,Clothing,54.42,1,54.42,CUST_0295,Regular,Mobile Pay,12.7,Rep_4,Friday,September,Q3,False
+TXN_232c7f9a,2024-11-01,2024-11-01 18:40:17,Store_C,Food,38.65,8,309.2,CUST_0296,Budget,Cash,18.1,Rep_2,Friday,November,Q4,False
+TXN_7b6fadc0,2024-07-19,2024-07-19 18:40:17,Store_D,Electronics,1271.13,1,1271.13,CUST_0297,Regular,Credit Card,0.0,Rep_3,Friday,July,Q3,False
+TXN_3ec9afae,2025-06-06,2025-06-06 18:40:17,Store_C,Electronics,113.43,3,340.29,CUST_0298,Regular,Debit Card,0.0,Rep_2,Friday,June,Q2,False
+TXN_2b7c40cc,2025-02-17,2025-02-17 18:40:17,Store_D,Clothing,36.7,1,36.7,CUST_0299,Budget,Mobile Pay,0.0,Rep_5,Monday,February,Q1,False
+TXN_5a34af7c,2025-02-14,2025-02-14 18:40:17,Store_B,Home,220.85,1,220.85,CUST_0300,Premium,Debit Card,0.0,Rep_1,Friday,February,Q1,False
+TXN_15a021c1,2025-03-14,2025-03-14 18:40:17,Store_E,Books,51.7,1,51.7,CUST_0301,Budget,Credit Card,0.0,Rep_1,Friday,March,Q1,False
+TXN_dde66513,2024-07-19,2024-07-19 18:40:17,Store_E,Home,295.17,1,295.17,CUST_0302,Premium,Debit Card,11.6,Rep_5,Friday,July,Q3,False
+TXN_05e8cca3,2025-01-30,2025-01-30 18:40:17,Store_B,Electronics,655.21,1,655.21,CUST_0303,Budget,Debit Card,15.2,Rep_1,Thursday,January,Q1,False
+TXN_8dfd9942,2025-02-05,2025-02-05 18:40:17,Store_E,Clothing,28.4,2,56.8,CUST_0304,Regular,Debit Card,14.2,Rep_3,Wednesday,February,Q1,False
+TXN_8b021b33,2024-06-29,2024-06-29 18:40:17,Store_C,Books,32.71,3,98.13,CUST_0305,Premium,Cash,0.0,Rep_1,Saturday,June,Q2,True
+TXN_46363ef4,2025-01-20,2025-01-20 18:40:17,Store_A,Food,24.54,1,24.54,CUST_0306,Budget,Mobile Pay,0.0,Rep_1,Monday,January,Q1,False
+TXN_7d195c22,2025-02-14,2025-02-14 18:40:17,Store_C,Electronics,1973.99,1,1973.99,CUST_0307,Regular,Credit Card,17.8,Rep_4,Friday,February,Q1,False
+TXN_5fc4c21d,2024-12-26,2024-12-26 18:40:17,Store_D,Books,64.11,2,128.22,CUST_0308,Regular,Credit Card,0.0,Rep_5,Thursday,December,Q4,False
+TXN_0784cdc1,2024-08-25,2024-08-25 18:40:17,Store_A,Food,17.0,2,34.0,CUST_0309,Premium,Mobile Pay,0.0,Rep_2,Sunday,August,Q3,True
+TXN_493c1beb,2024-10-10,2024-10-10 18:40:17,Store_A,Electronics,114.75,1,114.75,CUST_0310,Regular,Debit Card,0.0,Rep_4,Thursday,October,Q4,False
+TXN_26a49fa3,2025-03-17,2025-03-17 18:40:17,Store_B,Books,42.71,1,42.71,CUST_0311,Premium,Debit Card,0.0,Rep_2,Monday,March,Q1,False
+TXN_653b4ead,2024-08-14,2024-08-14 18:40:17,Store_D,Electronics,1156.7,2,2313.4,CUST_0312,Budget,Cash,0.0,Rep_1,Wednesday,August,Q3,False
+TXN_57cc4c5f,2024-10-19,2024-10-19 18:40:17,Store_A,Clothing,45.98,1,45.98,CUST_0313,Premium,Debit Card,0.0,Rep_1,Saturday,October,Q4,True
+TXN_819092cd,2024-10-21,2024-10-21 18:40:17,Store_D,Electronics,1291.04,1,1291.04,CUST_0314,Regular,Credit Card,0.0,Rep_1,Monday,October,Q4,False
+TXN_d0f3f247,2024-08-28,2024-08-28 18:40:17,Store_C,Home,468.74,1,468.74,CUST_0315,Premium,Cash,0.0,Rep_3,Wednesday,August,Q3,False
+TXN_5a6a3a1a,2025-04-09,2025-04-09 18:40:17,Store_C,Home,275.24,4,1100.96,CUST_0316,Premium,Credit Card,18.2,Rep_2,Wednesday,April,Q2,False
+TXN_568fe8c3,2025-01-15,2025-01-15 18:40:17,Store_C,Food,40.93,4,163.72,CUST_0317,Premium,Debit Card,0.0,Rep_2,Wednesday,January,Q1,False
+TXN_be007657,2025-05-04,2025-05-04 18:40:17,Store_E,Books,66.14,2,132.28,CUST_0318,Regular,Credit Card,0.0,Rep_4,Sunday,May,Q2,True
+TXN_aab134f5,2025-03-13,2025-03-13 18:40:17,Store_D,Food,3.96,3,11.88,CUST_0319,Regular,Credit Card,0.0,Rep_5,Thursday,March,Q1,False
+TXN_6284a482,2025-02-15,2025-02-15 18:40:17,Store_B,Clothing,195.54,1,195.54,CUST_0320,Regular,Cash,14.3,Rep_1,Saturday,February,Q1,True
+TXN_f1fbd9d2,2025-04-01,2025-04-01 18:40:17,Store_D,Books,80.02,3,240.06,CUST_0321,Budget,Debit Card,0.0,Rep_3,Tuesday,April,Q2,False
+TXN_82233c92,2024-09-30,2024-09-30 18:40:17,Store_A,Food,12.19,5,60.95,CUST_0322,Regular,Cash,19.5,Rep_2,Monday,September,Q3,False
+TXN_0d960bcb,2024-07-14,2024-07-14 18:40:17,Store_D,Food,2.5,5,12.5,CUST_0323,Budget,Debit Card,6.5,Rep_5,Sunday,July,Q3,True
+TXN_dc035a4e,2025-05-27,2025-05-27 18:40:17,Store_B,Home,179.51,2,359.02,CUST_0324,Regular,Credit Card,0.0,Rep_3,Tuesday,May,Q2,False
+TXN_82b12291,2024-06-25,2024-06-25 18:40:17,Store_B,Clothing,175.4,3,526.2,CUST_0325,Budget,Credit Card,0.0,Rep_4,Tuesday,June,Q2,False
+TXN_30ef0cbd,2024-10-20,2024-10-20 18:40:17,Store_B,Home,437.98,2,875.96,CUST_0326,Regular,Mobile Pay,0.0,Rep_3,Sunday,October,Q4,True
+TXN_d32553d5,2024-12-29,2024-12-29 18:40:17,Store_E,Books,78.58,1,78.58,CUST_0327,Budget,Credit Card,0.0,Rep_5,Sunday,December,Q4,True
+TXN_b06237ca,2025-02-27,2025-02-27 18:40:17,Store_A,Books,65.0,1,65.0,CUST_0328,Budget,Debit Card,0.0,Rep_2,Thursday,February,Q1,False
+TXN_23c824cd,2024-12-24,2024-12-24 18:40:17,Store_D,Food,46.24,3,138.72,CUST_0329,Premium,Debit Card,0.0,Rep_2,Tuesday,December,Q4,False
+TXN_9fb9bc62,2024-06-26,2024-06-26 18:40:17,Store_E,Food,42.86,4,171.44,CUST_0330,Budget,Debit Card,0.0,Rep_2,Wednesday,June,Q2,False
+TXN_1ab0cb74,2024-09-26,2024-09-26 18:40:17,Store_B,Food,18.6,4,74.4,CUST_0331,Regular,Debit Card,0.0,Rep_5,Thursday,September,Q3,False
+TXN_465281ce,2025-05-19,2025-05-19 18:40:17,Store_C,Food,33.18,4,132.72,CUST_0332,Regular,Mobile Pay,0.0,Rep_4,Monday,May,Q2,False
+TXN_2af7db70,2025-02-08,2025-02-08 18:40:17,Store_C,Clothing,58.67,1,58.67,CUST_0333,Premium,Credit Card,0.0,Rep_2,Saturday,February,Q1,True
+TXN_b0a83a6e,2025-03-22,2025-03-22 18:40:17,Store_E,Electronics,381.03,1,381.03,CUST_0334,Premium,Cash,21.4,Rep_1,Saturday,March,Q1,True
+TXN_06478517,2024-06-21,2024-06-21 18:40:17,Store_B,Books,83.74,1,83.74,CUST_0335,Budget,Credit Card,0.0,Rep_1,Friday,June,Q2,False
+TXN_d5587e40,2024-10-07,2024-10-07 18:40:17,Store_D,Home,312.4,1,312.4,CUST_0336,Regular,Credit Card,0.0,Rep_5,Monday,October,Q4,False
+TXN_fad075a0,2025-02-20,2025-02-20 18:40:17,Store_A,Books,20.92,1,20.92,CUST_0337,Premium,Debit Card,0.0,Rep_1,Thursday,February,Q1,False
+TXN_d3a1f3af,2025-03-16,2025-03-16 18:40:17,Store_E,Food,37.08,6,222.48,CUST_0338,Regular,Credit Card,0.0,Rep_4,Sunday,March,Q1,True
+TXN_1a8ca7f2,2024-09-17,2024-09-17 18:40:17,Store_A,Electronics,268.24,1,268.24,CUST_0339,Budget,Credit Card,0.0,Rep_5,Tuesday,September,Q3,False
+TXN_67709b2d,2024-10-25,2024-10-25 18:40:17,Store_C,Food,3.8,2,7.6,CUST_0340,Regular,Credit Card,0.0,Rep_4,Friday,October,Q4,False
+TXN_681af0fc,2025-04-03,2025-04-03 18:40:17,Store_B,Clothing,37.59,3,112.77,CUST_0341,Regular,Debit Card,0.0,Rep_1,Thursday,April,Q2,False
+TXN_4acbd801,2024-08-04,2024-08-04 18:40:17,Store_D,Books,8.95,1,8.95,CUST_0342,Regular,Debit Card,5.2,Rep_2,Sunday,August,Q3,True
+TXN_4b2a3602,2024-07-30,2024-07-30 18:40:17,Store_D,Books,98.73,1,98.73,CUST_0343,Budget,Cash,0.0,Rep_1,Tuesday,July,Q3,False
+TXN_6e27d8b2,2025-03-15,2025-03-15 18:40:17,Store_B,Electronics,1906.03,2,3812.06,CUST_0344,Premium,Mobile Pay,0.0,Rep_5,Saturday,March,Q1,True
+TXN_6786cc08,2025-02-16,2025-02-16 18:40:17,Store_A,Food,26.26,3,78.78,CUST_0345,Premium,Debit Card,0.0,Rep_5,Sunday,February,Q1,True
+TXN_5987a549,2025-04-02,2025-04-02 18:40:17,Store_B,Electronics,650.46,1,650.46,CUST_0346,Regular,Credit Card,0.0,Rep_2,Wednesday,April,Q2,False
+TXN_70edc44f,2025-06-17,2025-06-17 18:40:17,Store_A,Books,68.98,1,68.98,CUST_0347,Regular,Credit Card,0.0,Rep_4,Tuesday,June,Q2,False
+TXN_62cd8544,2025-05-30,2025-05-30 18:40:17,Store_C,Home,339.58,2,679.16,CUST_0348,Regular,Cash,24.8,Rep_1,Friday,May,Q2,False
+TXN_e3b6f446,2025-03-01,2025-03-01 18:40:17,Store_A,Food,34.94,7,244.58,CUST_0349,Premium,Debit Card,0.0,Rep_3,Saturday,March,Q1,True
+TXN_37528020,2025-04-23,2025-04-23 18:40:17,Store_E,Home,466.16,2,932.32,CUST_0350,Regular,Mobile Pay,0.0,Rep_3,Wednesday,April,Q2,False
+TXN_f739a48e,2025-02-03,2025-02-03 18:40:17,Store_B,Books,67.59,2,135.18,CUST_0351,Regular,Debit Card,0.0,Rep_2,Monday,February,Q1,False
+TXN_fa7f2051,2025-06-01,2025-06-01 18:40:17,Store_D,Home,332.34,1,332.34,CUST_0352,Premium,Cash,0.0,Rep_2,Sunday,June,Q2,True
+TXN_3a203534,2025-06-18,2025-06-18 18:40:17,Store_A,Electronics,1955.49,2,3910.98,CUST_0353,Regular,Credit Card,0.0,Rep_2,Wednesday,June,Q2,False
+TXN_e1dfcc7b,2025-01-03,2025-01-03 18:40:17,Store_C,Food,28.78,7,201.46,CUST_0354,Premium,Credit Card,0.0,Rep_4,Friday,January,Q1,False
+TXN_b98f4282,2024-12-19,2024-12-19 18:40:17,Store_A,Food,28.23,2,56.46,CUST_0355,Premium,Credit Card,0.0,Rep_5,Thursday,December,Q4,False
+TXN_f9e0849d,2025-03-29,2025-03-29 18:40:17,Store_D,Home,169.05,1,169.05,CUST_0356,Premium,Credit Card,0.0,Rep_1,Saturday,March,Q1,True
+TXN_10face1a,2025-04-19,2025-04-19 18:40:17,Store_C,Home,350.78,1,350.78,CUST_0357,Regular,Credit Card,0.0,Rep_1,Saturday,April,Q2,True
+TXN_fd7f41f7,2025-03-31,2025-03-31 18:40:17,Store_E,Clothing,58.95,1,58.95,CUST_0358,Budget,Credit Card,0.0,Rep_2,Monday,March,Q1,False
+TXN_2130e123,2024-11-02,2024-11-02 18:40:17,Store_C,Food,5.6,6,33.6,CUST_0359,Regular,Credit Card,0.0,Rep_3,Saturday,November,Q4,True
+TXN_426baf00,2025-01-19,2025-01-19 18:40:17,Store_D,Food,2.26,3,6.78,CUST_0360,Premium,Credit Card,0.0,Rep_4,Sunday,January,Q1,True
+TXN_7571d8fa,2025-04-18,2025-04-18 18:40:17,Store_B,Home,271.47,5,1357.35,CUST_0361,Regular,Credit Card,0.0,Rep_4,Friday,April,Q2,False
+TXN_d211e1c2,2024-12-05,2024-12-05 18:40:17,Store_D,Home,116.68,2,233.36,CUST_0362,Regular,Debit Card,0.0,Rep_5,Thursday,December,Q4,False
+TXN_e7f4b63e,2024-08-26,2024-08-26 18:40:17,Store_C,Food,46.42,2,92.84,CUST_0363,Budget,Mobile Pay,0.0,Rep_3,Monday,August,Q3,False
+TXN_b74e0de1,2024-09-16,2024-09-16 18:40:17,Store_C,Books,14.63,1,14.63,CUST_0364,Regular,Cash,0.0,Rep_5,Monday,September,Q3,False
+TXN_388f1541,2024-10-20,2024-10-20 18:40:17,Store_D,Food,14.96,4,59.84,CUST_0365,Regular,Cash,0.0,Rep_1,Sunday,October,Q4,True
+TXN_bc7135d7,2025-04-02,2025-04-02 18:40:17,Store_E,Clothing,147.49,1,147.49,CUST_0366,Budget,Credit Card,0.0,Rep_1,Wednesday,April,Q2,False
+TXN_ba6a1d9e,2025-02-09,2025-02-09 18:40:17,Store_D,Clothing,37.55,2,75.1,CUST_0367,Regular,Cash,22.0,Rep_4,Sunday,February,Q1,True
+TXN_001975ea,2025-05-28,2025-05-28 18:40:17,Store_B,Books,54.89,1,54.89,CUST_0368,Budget,Credit Card,0.0,Rep_2,Wednesday,May,Q2,False
+TXN_c127d397,2025-01-20,2025-01-20 18:40:17,Store_A,Books,58.89,2,117.78,CUST_0369,Regular,Mobile Pay,0.0,Rep_4,Monday,January,Q1,False
+TXN_238e3723,2025-03-18,2025-03-18 18:40:17,Store_D,Home,404.94,1,404.94,CUST_0370,Budget,Credit Card,0.0,Rep_5,Tuesday,March,Q1,False
+TXN_6ccf7ea2,2025-04-18,2025-04-18 18:40:17,Store_A,Electronics,1284.65,4,5138.6,CUST_0371,Premium,Debit Card,0.0,Rep_5,Friday,April,Q2,False
+TXN_bea1a3b4,2024-07-10,2024-07-10 18:40:17,Store_D,Home,113.9,2,227.8,CUST_0372,Regular,Mobile Pay,0.0,Rep_1,Wednesday,July,Q3,False
+TXN_ac5ed2c0,2024-08-07,2024-08-07 18:40:17,Store_B,Food,45.1,3,135.3,CUST_0373,Budget,Cash,0.0,Rep_5,Wednesday,August,Q3,False
+TXN_c1d6c0f3,2024-10-09,2024-10-09 18:40:17,Store_C,Books,83.15,2,166.3,CUST_0374,Regular,Debit Card,0.0,Rep_5,Wednesday,October,Q4,False
+TXN_1b961afc,2024-09-03,2024-09-03 18:40:17,Store_A,Food,31.57,4,126.28,CUST_0375,Regular,Credit Card,0.0,Rep_1,Tuesday,September,Q3,False
+TXN_50b25bde,2024-08-16,2024-08-16 18:40:17,Store_C,Clothing,55.1,1,55.1,CUST_0376,Regular,Credit Card,0.0,Rep_5,Friday,August,Q3,False
+TXN_dd5a3055,2025-02-20,2025-02-20 18:40:17,Store_D,Food,2.16,4,8.64,CUST_0377,Premium,Debit Card,0.0,Rep_3,Thursday,February,Q1,False
+TXN_faea7c50,2024-07-22,2024-07-22 18:40:17,Store_A,Food,30.13,4,120.52,CUST_0378,Budget,Credit Card,0.0,Rep_1,Monday,July,Q3,False
+TXN_4925d8d1,2025-05-30,2025-05-30 18:40:17,Store_B,Clothing,94.22,3,282.66,CUST_0379,Budget,Credit Card,0.0,Rep_5,Friday,May,Q2,False
+TXN_98e2e839,2025-01-22,2025-01-22 18:40:17,Store_B,Books,14.89,2,29.78,CUST_0380,Regular,Debit Card,0.0,Rep_4,Wednesday,January,Q1,False
+TXN_d748e402,2025-01-06,2025-01-06 18:40:17,Store_E,Electronics,204.87,1,204.87,CUST_0381,Premium,Debit Card,0.0,Rep_1,Monday,January,Q1,False
+TXN_ee0a87bd,2025-06-13,2025-06-13 18:40:17,Store_B,Clothing,180.43,1,180.43,CUST_0382,Regular,Cash,0.0,Rep_1,Friday,June,Q2,False
+TXN_d80f4ba9,2025-04-09,2025-04-09 18:40:17,Store_E,Electronics,491.98,1,491.98,CUST_0383,Premium,Credit Card,0.0,Rep_1,Wednesday,April,Q2,False
+TXN_da076dbe,2024-10-30,2024-10-30 18:40:17,Store_E,Books,54.31,1,54.31,CUST_0384,Budget,Credit Card,0.0,Rep_4,Wednesday,October,Q4,False
+TXN_e5d488ce,2025-04-14,2025-04-14 18:40:17,Store_C,Electronics,1610.7,1,1610.7,CUST_0385,Regular,Cash,0.0,Rep_3,Monday,April,Q2,False
+TXN_d5ef1ebb,2025-04-28,2025-04-28 18:40:17,Store_A,Home,274.61,3,823.83,CUST_0386,Budget,Credit Card,11.1,Rep_2,Monday,April,Q2,False
+TXN_e0eb9c01,2024-12-26,2024-12-26 18:40:17,Store_E,Clothing,94.52,5,472.6,CUST_0387,Regular,Debit Card,12.7,Rep_2,Thursday,December,Q4,False
+TXN_2315e81e,2025-02-22,2025-02-22 18:40:17,Store_B,Home,285.53,1,285.53,CUST_0388,Budget,Credit Card,0.0,Rep_2,Saturday,February,Q1,True
+TXN_22b4a592,2024-11-26,2024-11-26 18:40:17,Store_E,Books,80.44,1,80.44,CUST_0389,Premium,Cash,0.0,Rep_4,Tuesday,November,Q4,False
+TXN_18760e86,2024-08-26,2024-08-26 18:40:17,Store_D,Clothing,98.32,5,491.6,CUST_0390,Budget,Debit Card,0.0,Rep_4,Monday,August,Q3,False
+TXN_97e148a9,2025-01-16,2025-01-16 18:40:17,Store_D,Books,42.94,1,42.94,CUST_0391,Premium,Credit Card,20.2,Rep_3,Thursday,January,Q1,False
+TXN_ddb125f1,2024-07-04,2024-07-04 18:40:17,Store_B,Food,49.63,5,248.15,CUST_0392,Budget,Credit Card,0.0,Rep_5,Thursday,July,Q3,False
+TXN_86cbe2c6,2025-02-26,2025-02-26 18:40:17,Store_E,Home,380.08,1,380.08,CUST_0393,Premium,Debit Card,0.0,Rep_5,Wednesday,February,Q1,False
+TXN_126d17bf,2024-12-22,2024-12-22 18:40:17,Store_A,Home,521.12,1,521.12,CUST_0394,Budget,Debit Card,0.0,Rep_4,Sunday,December,Q4,True
+TXN_dec3d766,2024-08-09,2024-08-09 18:40:17,Store_C,Clothing,71.08,1,71.08,CUST_0395,Premium,Debit Card,0.0,Rep_1,Friday,August,Q3,False
+TXN_2c6ad7c8,2025-01-28,2025-01-28 18:40:17,Store_B,Electronics,220.9,2,441.8,CUST_0396,Premium,Cash,0.0,Rep_3,Tuesday,January,Q1,False
+TXN_2feeac0a,2025-06-16,2025-06-16 18:40:17,Store_D,Home,204.52,2,409.04,CUST_0397,Premium,Debit Card,0.0,Rep_2,Monday,June,Q2,False
+TXN_9beb209f,2024-07-18,2024-07-18 18:40:17,Store_C,Home,460.5,3,1381.5,CUST_0398,Budget,Credit Card,0.0,Rep_3,Thursday,July,Q3,False
+TXN_e3ef227a,2025-06-13,2025-06-13 18:40:17,Store_C,Food,46.6,4,186.4,CUST_0399,Budget,Credit Card,0.0,Rep_1,Friday,June,Q2,False
+TXN_2b980438,2024-08-26,2024-08-26 18:40:17,Store_A,Books,81.56,2,163.12,CUST_0400,Regular,Cash,22.3,Rep_2,Monday,August,Q3,False
+TXN_806b5093,2024-08-31,2024-08-31 18:40:17,Store_B,Food,20.75,4,83.0,CUST_0401,Budget,Credit Card,17.6,Rep_4,Saturday,August,Q3,True
+TXN_80310110,2024-12-27,2024-12-27 18:40:17,Store_A,Books,93.65,5,468.25,CUST_0402,Budget,Cash,0.0,Rep_4,Friday,December,Q4,False
+TXN_9c5cb10f,2025-03-08,2025-03-08 18:40:17,Store_C,Food,25.63,2,51.26,CUST_0403,Regular,Mobile Pay,0.0,Rep_1,Saturday,March,Q1,True
+TXN_81786dfd,2024-08-04,2024-08-04 18:40:17,Store_C,Books,11.48,1,11.48,CUST_0404,Premium,Cash,0.0,Rep_4,Sunday,August,Q3,True
+TXN_ae2daf1b,2024-10-04,2024-10-04 18:40:17,Store_C,Books,17.84,4,71.36,CUST_0405,Regular,Cash,0.0,Rep_5,Friday,October,Q4,False
+TXN_2615c726,2024-08-23,2024-08-23 18:40:17,Store_D,Home,258.01,1,258.01,CUST_0406,Regular,Cash,0.0,Rep_1,Friday,August,Q3,False
+TXN_eda4cf8c,2024-08-07,2024-08-07 18:40:17,Store_A,Books,65.88,1,65.88,CUST_0407,Premium,Mobile Pay,0.0,Rep_4,Wednesday,August,Q3,False
+TXN_c7349ec5,2024-06-18,2024-06-18 18:40:17,Store_B,Books,66.77,1,66.77,CUST_0408,Budget,Mobile Pay,0.0,Rep_3,Tuesday,June,Q2,False
+TXN_188b7752,2024-09-07,2024-09-07 18:40:17,Store_A,Food,4.01,2,8.02,CUST_0409,Budget,Credit Card,18.3,Rep_2,Saturday,September,Q3,True
+TXN_894ae19f,2024-07-14,2024-07-14 18:40:17,Store_C,Books,99.51,1,99.51,CUST_0410,Budget,Debit Card,0.0,Rep_1,Sunday,July,Q3,True
+TXN_1e28d20c,2025-06-13,2025-06-13 18:40:17,Store_A,Electronics,1405.32,1,1405.32,CUST_0411,Premium,Debit Card,9.5,Rep_4,Friday,June,Q2,False
+TXN_b10df4ef,2024-06-22,2024-06-22 18:40:17,Store_C,Electronics,327.39,1,327.39,CUST_0412,Premium,Mobile Pay,0.0,Rep_2,Saturday,June,Q2,True
+TXN_16e8efac,2025-02-17,2025-02-17 18:40:17,Store_B,Electronics,641.39,1,641.39,CUST_0413,Regular,Credit Card,0.0,Rep_1,Monday,February,Q1,False
+TXN_3a28ae02,2024-11-25,2024-11-25 18:40:17,Store_C,Food,38.84,6,233.04,CUST_0414,Premium,Credit Card,0.0,Rep_2,Monday,November,Q4,False
+TXN_acab4843,2025-05-12,2025-05-12 18:40:17,Store_A,Clothing,93.83,1,93.83,CUST_0415,Budget,Debit Card,0.0,Rep_2,Monday,May,Q2,False
+TXN_b3c2c932,2025-01-29,2025-01-29 18:40:17,Store_B,Food,23.04,2,46.08,CUST_0416,Budget,Cash,0.0,Rep_5,Wednesday,January,Q1,False
+TXN_7c470a14,2025-06-04,2025-06-04 18:40:17,Store_B,Books,83.62,2,167.24,CUST_0417,Premium,Cash,7.5,Rep_4,Wednesday,June,Q2,False
+TXN_9347a3e9,2024-12-14,2024-12-14 18:40:17,Store_C,Books,53.28,1,53.28,CUST_0418,Premium,Credit Card,0.0,Rep_2,Saturday,December,Q4,True
+TXN_6013d8b8,2025-03-28,2025-03-28 18:40:17,Store_E,Home,137.31,1,137.31,CUST_0419,Budget,Debit Card,0.0,Rep_1,Friday,March,Q1,False
+TXN_b049df31,2025-05-21,2025-05-21 18:40:17,Store_B,Food,27.23,1,27.23,CUST_0420,Budget,Debit Card,0.0,Rep_4,Wednesday,May,Q2,False
+TXN_2f621502,2024-11-16,2024-11-16 18:40:17,Store_B,Electronics,673.93,3,2021.79,CUST_0421,Regular,Credit Card,0.0,Rep_5,Saturday,November,Q4,True
+TXN_4452cf31,2024-07-24,2024-07-24 18:40:17,Store_A,Home,278.5,2,557.0,CUST_0422,Regular,Mobile Pay,22.2,Rep_5,Wednesday,July,Q3,False
+TXN_f0addbf3,2025-01-19,2025-01-19 18:40:17,Store_E,Food,24.92,3,74.76,CUST_0423,Budget,Credit Card,0.0,Rep_1,Sunday,January,Q1,True
+TXN_019a1511,2024-06-26,2024-06-26 18:40:17,Store_A,Home,194.19,1,194.19,CUST_0424,Premium,Credit Card,6.2,Rep_4,Wednesday,June,Q2,False
+TXN_69f9b0f6,2025-03-04,2025-03-04 18:40:17,Store_E,Food,39.47,6,236.82,CUST_0425,Regular,Debit Card,0.0,Rep_5,Tuesday,March,Q1,False
+TXN_7bf59db9,2025-03-20,2025-03-20 18:40:17,Store_B,Home,422.03,1,422.03,CUST_0426,Regular,Credit Card,23.4,Rep_2,Thursday,March,Q1,False
+TXN_58b2586a,2025-03-19,2025-03-19 18:40:17,Store_D,Food,45.19,6,271.14,CUST_0427,Budget,Debit Card,0.0,Rep_1,Wednesday,March,Q1,False
+TXN_bfbad342,2024-11-23,2024-11-23 18:40:17,Store_B,Books,61.3,3,183.9,CUST_0428,Premium,Credit Card,0.0,Rep_1,Saturday,November,Q4,True
+TXN_76509906,2025-02-05,2025-02-05 18:40:17,Store_E,Home,51.55,1,51.55,CUST_0429,Premium,Credit Card,0.0,Rep_2,Wednesday,February,Q1,False
+TXN_311556e5,2024-08-18,2024-08-18 18:40:17,Store_B,Electronics,188.95,1,188.95,CUST_0430,Budget,Credit Card,0.0,Rep_3,Sunday,August,Q3,True
+TXN_ffcf7baa,2025-03-12,2025-03-12 18:40:17,Store_C,Home,478.69,2,957.38,CUST_0431,Premium,Credit Card,0.0,Rep_3,Wednesday,March,Q1,False
+TXN_a0d3713b,2024-08-17,2024-08-17 18:40:17,Store_C,Electronics,731.92,2,1463.84,CUST_0432,Regular,Credit Card,19.2,Rep_5,Saturday,August,Q3,True
+TXN_3b20cdc1,2025-05-05,2025-05-05 18:40:17,Store_D,Electronics,389.51,1,389.51,CUST_0433,Regular,Debit Card,22.2,Rep_2,Monday,May,Q2,False
+TXN_071f94f4,2024-12-23,2024-12-23 18:40:17,Store_C,Clothing,171.84,1,171.84,CUST_0434,Premium,Cash,0.0,Rep_1,Monday,December,Q4,False
+TXN_98456609,2024-10-12,2024-10-12 18:40:17,Store_A,Home,50.26,2,100.52,CUST_0435,Premium,Cash,5.9,Rep_3,Saturday,October,Q4,True
+TXN_aa9dd33b,2024-12-31,2024-12-31 18:40:17,Store_B,Clothing,153.59,1,153.59,CUST_0436,Premium,Debit Card,0.0,Rep_4,Tuesday,December,Q4,False
+TXN_852d4dd2,2024-10-10,2024-10-10 18:40:17,Store_B,Food,31.14,3,93.42,CUST_0437,Regular,Mobile Pay,0.0,Rep_1,Thursday,October,Q4,False
+TXN_18ea818e,2025-04-06,2025-04-06 18:40:17,Store_A,Food,48.46,8,387.68,CUST_0438,Budget,Debit Card,9.5,Rep_5,Sunday,April,Q2,True
+TXN_d53e616f,2024-07-11,2024-07-11 18:40:17,Store_A,Books,37.14,2,74.28,CUST_0439,Regular,Cash,0.0,Rep_3,Thursday,July,Q3,False
+TXN_5099381f,2024-12-02,2024-12-02 18:40:17,Store_E,Electronics,1060.24,2,2120.48,CUST_0440,Regular,Credit Card,0.0,Rep_5,Monday,December,Q4,False
+TXN_0813c8da,2024-11-20,2024-11-20 18:40:17,Store_B,Home,79.24,2,158.48,CUST_0441,Regular,Credit Card,0.0,Rep_2,Wednesday,November,Q4,False
+TXN_15bfcde2,2025-03-24,2025-03-24 18:40:17,Store_B,Clothing,165.95,5,829.75,CUST_0442,Premium,Mobile Pay,15.8,Rep_1,Monday,March,Q1,False
+TXN_3300efc1,2024-12-06,2024-12-06 18:40:17,Store_D,Electronics,2107.59,2,4215.18,CUST_0443,Budget,Cash,15.6,Rep_2,Friday,December,Q4,False
+TXN_ec7d55f9,2025-01-18,2025-01-18 18:40:17,Store_A,Books,56.78,2,113.56,CUST_0444,Premium,Cash,23.4,Rep_5,Saturday,January,Q1,True
+TXN_f3046442,2025-01-15,2025-01-15 18:40:17,Store_D,Food,9.08,3,27.24,CUST_0445,Budget,Credit Card,7.7,Rep_4,Wednesday,January,Q1,False
+TXN_b0b006f2,2024-07-26,2024-07-26 18:40:17,Store_E,Home,257.87,3,773.61,CUST_0446,Premium,Debit Card,0.0,Rep_2,Friday,July,Q3,False
+TXN_1969114f,2024-11-14,2024-11-14 18:40:17,Store_C,Food,30.04,5,150.2,CUST_0447,Regular,Cash,0.0,Rep_3,Thursday,November,Q4,False
+TXN_f2cf19d9,2025-02-04,2025-02-04 18:40:17,Store_B,Food,23.62,1,23.62,CUST_0448,Premium,Mobile Pay,20.4,Rep_1,Tuesday,February,Q1,False
+TXN_32f52963,2024-09-05,2024-09-05 18:40:17,Store_B,Electronics,531.02,2,1062.04,CUST_0449,Regular,Debit Card,0.0,Rep_5,Thursday,September,Q3,False
+TXN_d6633fa4,2024-12-18,2024-12-18 18:40:17,Store_D,Clothing,112.49,1,112.49,CUST_0450,Regular,Debit Card,0.0,Rep_1,Wednesday,December,Q4,False
+TXN_3f56dcf5,2024-09-06,2024-09-06 18:40:17,Store_E,Food,36.92,4,147.68,CUST_0451,Premium,Credit Card,0.0,Rep_2,Friday,September,Q3,False
+TXN_e5b2d542,2024-08-03,2024-08-03 18:40:17,Store_C,Clothing,15.97,1,15.97,CUST_0452,Regular,Debit Card,0.0,Rep_3,Saturday,August,Q3,True
+TXN_17887c16,2024-09-15,2024-09-15 18:40:17,Store_D,Electronics,1504.18,1,1504.18,CUST_0453,Regular,Debit Card,0.0,Rep_1,Sunday,September,Q3,True
+TXN_c74bf431,2025-02-09,2025-02-09 18:40:17,Store_B,Electronics,1918.24,1,1918.24,CUST_0454,Premium,Credit Card,0.0,Rep_2,Sunday,February,Q1,True
+TXN_1539c3c6,2024-08-23,2024-08-23 18:40:17,Store_D,Clothing,42.54,3,127.62,CUST_0455,Regular,Debit Card,0.0,Rep_1,Friday,August,Q3,False
+TXN_fae2d0cf,2025-04-12,2025-04-12 18:40:17,Store_C,Home,229.82,3,689.46,CUST_0456,Premium,Credit Card,23.0,Rep_4,Saturday,April,Q2,True
+TXN_45c75307,2024-08-22,2024-08-22 18:40:17,Store_C,Electronics,854.61,1,854.61,CUST_0457,Premium,Credit Card,0.0,Rep_2,Thursday,August,Q3,False
+TXN_323c3047,2025-04-07,2025-04-07 18:40:17,Store_D,Books,63.86,2,127.72,CUST_0458,Regular,Credit Card,0.0,Rep_2,Monday,April,Q2,False
+TXN_4b9ac27c,2024-12-16,2024-12-16 18:40:17,Store_B,Clothing,148.11,1,148.11,CUST_0459,Regular,Credit Card,0.0,Rep_1,Monday,December,Q4,False
+TXN_6f37d041,2025-04-28,2025-04-28 18:40:17,Store_E,Home,294.19,2,588.38,CUST_0460,Premium,Debit Card,0.0,Rep_5,Monday,April,Q2,False
+TXN_c0c6bacf,2025-02-18,2025-02-18 18:40:17,Store_A,Electronics,1369.11,1,1369.11,CUST_0461,Regular,Credit Card,0.0,Rep_5,Tuesday,February,Q1,False
+TXN_f0c89729,2024-10-23,2024-10-23 18:40:17,Store_A,Home,414.27,1,414.27,CUST_0462,Regular,Cash,0.0,Rep_5,Wednesday,October,Q4,False
+TXN_bfdc97eb,2025-02-21,2025-02-21 18:40:17,Store_E,Food,3.87,6,23.22,CUST_0463,Budget,Credit Card,0.0,Rep_1,Friday,February,Q1,False
+TXN_e8946a74,2024-11-28,2024-11-28 18:40:17,Store_B,Home,202.72,1,202.72,CUST_0464,Premium,Cash,0.0,Rep_1,Thursday,November,Q4,False
+TXN_a14bdbc4,2025-02-14,2025-02-14 18:40:17,Store_C,Home,118.1,5,590.5,CUST_0465,Budget,Mobile Pay,0.0,Rep_1,Friday,February,Q1,False
+TXN_cb546c00,2024-10-22,2024-10-22 18:40:17,Store_C,Clothing,132.69,1,132.69,CUST_0466,Budget,Cash,0.0,Rep_1,Tuesday,October,Q4,False
+TXN_d7ccdd95,2024-10-08,2024-10-08 18:40:17,Store_D,Home,210.85,2,421.7,CUST_0467,Regular,Mobile Pay,0.0,Rep_2,Tuesday,October,Q4,False
+TXN_9e1f5964,2024-09-16,2024-09-16 18:40:17,Store_E,Clothing,123.74,1,123.74,CUST_0468,Regular,Cash,0.0,Rep_5,Monday,September,Q3,False
+TXN_1db68884,2024-07-02,2024-07-02 18:40:17,Store_E,Food,17.39,1,17.39,CUST_0469,Budget,Credit Card,0.0,Rep_4,Tuesday,July,Q3,False
+TXN_2f5b9f84,2025-03-22,2025-03-22 18:40:17,Store_B,Food,2.19,5,10.95,CUST_0470,Regular,Credit Card,17.0,Rep_1,Saturday,March,Q1,True
+TXN_0c37732e,2025-03-14,2025-03-14 18:40:17,Store_A,Books,45.82,2,91.64,CUST_0471,Regular,Mobile Pay,0.0,Rep_2,Friday,March,Q1,False
+TXN_23324e1d,2024-12-09,2024-12-09 18:40:17,Store_C,Clothing,194.82,1,194.82,CUST_0472,Premium,Credit Card,0.0,Rep_2,Monday,December,Q4,False
+TXN_2559d3c8,2024-08-13,2024-08-13 18:40:17,Store_C,Home,49.49,2,98.98,CUST_0473,Premium,Credit Card,0.0,Rep_4,Tuesday,August,Q3,False
+TXN_b3a4147c,2025-04-14,2025-04-14 18:40:17,Store_C,Electronics,1472.54,1,1472.54,CUST_0474,Regular,Credit Card,0.0,Rep_4,Monday,April,Q2,False
+TXN_62bce265,2025-05-11,2025-05-11 18:40:17,Store_C,Books,62.97,1,62.97,CUST_0475,Premium,Cash,0.0,Rep_5,Sunday,May,Q2,True
+TXN_264cf3fd,2024-12-17,2024-12-17 18:40:17,Store_E,Clothing,189.64,1,189.64,CUST_0476,Premium,Credit Card,0.0,Rep_3,Tuesday,December,Q4,False
+TXN_826e2be6,2024-08-22,2024-08-22 18:40:17,Store_A,Clothing,25.56,1,25.56,CUST_0477,Budget,Mobile Pay,0.0,Rep_5,Thursday,August,Q3,False
+TXN_8f0f42c1,2024-07-04,2024-07-04 18:40:17,Store_E,Clothing,60.69,2,121.38,CUST_0478,Regular,Mobile Pay,0.0,Rep_2,Thursday,July,Q3,False
+TXN_3a24352a,2025-05-11,2025-05-11 18:40:17,Store_A,Home,382.11,2,764.22,CUST_0479,Regular,Credit Card,0.0,Rep_2,Sunday,May,Q2,True
+TXN_3b1e3b13,2024-12-12,2024-12-12 18:40:17,Store_B,Food,27.55,2,55.1,CUST_0480,Budget,Cash,19.2,Rep_3,Thursday,December,Q4,False
+TXN_02d592a9,2025-02-01,2025-02-01 18:40:17,Store_C,Electronics,1088.22,1,1088.22,CUST_0481,Premium,Credit Card,10.1,Rep_1,Saturday,February,Q1,True
+TXN_efa72de4,2024-06-18,2024-06-18 18:40:17,Store_D,Electronics,1804.68,1,1804.68,CUST_0482,Regular,Cash,0.0,Rep_4,Tuesday,June,Q2,False
+TXN_fd180f3a,2025-02-25,2025-02-25 18:40:17,Store_C,Books,68.06,3,204.18,CUST_0483,Budget,Credit Card,0.0,Rep_5,Tuesday,February,Q1,False
+TXN_0e0c4158,2025-05-17,2025-05-17 18:40:17,Store_B,Clothing,92.48,3,277.44,CUST_0484,Regular,Credit Card,0.0,Rep_3,Saturday,May,Q2,True
+TXN_2f03c7f7,2024-06-28,2024-06-28 18:40:17,Store_C,Food,33.05,5,165.25,CUST_0485,Premium,Credit Card,0.0,Rep_4,Friday,June,Q2,False
+TXN_874b3a61,2024-09-08,2024-09-08 18:40:17,Store_E,Electronics,272.49,1,272.49,CUST_0486,Premium,Credit Card,0.0,Rep_4,Sunday,September,Q3,True
+TXN_31674888,2025-06-13,2025-06-13 18:40:17,Store_D,Electronics,489.37,1,489.37,CUST_0487,Budget,Credit Card,0.0,Rep_2,Friday,June,Q2,False
+TXN_0e6afbe7,2024-07-15,2024-07-15 18:40:17,Store_C,Electronics,1708.7,1,1708.7,CUST_0488,Premium,Mobile Pay,0.0,Rep_5,Monday,July,Q3,False
+TXN_d310e045,2025-03-21,2025-03-21 18:40:17,Store_C,Food,6.62,3,19.86,CUST_0489,Regular,Credit Card,16.4,Rep_4,Friday,March,Q1,False
+TXN_1587ce5c,2024-09-04,2024-09-04 18:40:17,Store_C,Electronics,1109.9,1,1109.9,CUST_0490,Premium,Debit Card,0.0,Rep_5,Wednesday,September,Q3,False
+TXN_6382a7b3,2025-02-18,2025-02-18 18:40:17,Store_A,Clothing,99.79,1,99.79,CUST_0491,Premium,Credit Card,0.0,Rep_1,Tuesday,February,Q1,False
+TXN_222ae599,2025-02-15,2025-02-15 18:40:17,Store_C,Electronics,1894.11,2,3788.22,CUST_0492,Regular,Debit Card,0.0,Rep_3,Saturday,February,Q1,True
+TXN_eb280693,2024-08-03,2024-08-03 18:40:17,Store_D,Home,211.77,2,423.54,CUST_0493,Premium,Credit Card,0.0,Rep_2,Saturday,August,Q3,True
+TXN_23eace0a,2025-02-01,2025-02-01 18:40:17,Store_C,Electronics,1049.38,2,2098.76,CUST_0494,Regular,Debit Card,0.0,Rep_3,Saturday,February,Q1,True
+TXN_792bce9d,2025-04-02,2025-04-02 18:40:17,Store_B,Electronics,1583.24,1,1583.24,CUST_0495,Budget,Debit Card,11.9,Rep_5,Wednesday,April,Q2,False
+TXN_eefe99a8,2025-01-15,2025-01-15 18:40:17,Store_B,Home,136.72,1,136.72,CUST_0496,Budget,Credit Card,0.0,Rep_5,Wednesday,January,Q1,False
+TXN_cd57fb69,2025-01-18,2025-01-18 18:40:17,Store_D,Home,171.81,2,343.62,CUST_0497,Budget,Cash,0.0,Rep_1,Saturday,January,Q1,True
+TXN_654c2f87,2025-01-06,2025-01-06 18:40:17,Store_E,Electronics,1761.77,2,3523.54,CUST_0498,Budget,Mobile Pay,0.0,Rep_5,Monday,January,Q1,False
+TXN_2088941d,2024-09-01,2024-09-01 18:40:17,Store_D,Electronics,929.92,2,1859.84,CUST_0499,Premium,Mobile Pay,0.0,Rep_2,Sunday,September,Q3,True

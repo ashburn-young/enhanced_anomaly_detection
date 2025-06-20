@@ -1,0 +1,32 @@
+[server]
+# Increase file upload limits
+maxUploadSize = 200
+maxMessageSize = 200
+
+# Enable CORS and better compatibility
+enableCORS = true
+allowOriginWildcard = true
+enableXsrfProtection = false
+
+# Performance settings
+headless = true
+port = 8501
+address = "0.0.0.0"
+
+# File upload optimizations
+fileWatcherType = "none"
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+# Spotify-inspired dark theme
+base = "dark"
+primaryColor = "#1db954"
+backgroundColor = "#121212"
+secondaryBackgroundColor = "#1f1f1f"
+textColor = "#ffffff"
+font = "sans serif"
+
+[logger]
+level = "info"
